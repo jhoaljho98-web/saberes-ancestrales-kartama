@@ -1,0 +1,23 @@
+/* Tailwind: capas base, componentes y utilidades */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Ajustes globales sencillos.
+   Texto cómodo por defecto y fondo cálido de la paleta Forest & Moss. */
+html {
+  font-size: 18px; /* base grande para lectura cómoda en celular */
+}
+
+body {
+  margin: 0;
+  background-color: #f4f1e8; /* crema */
+  color: #3a2e1f; /* tierra */
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Evita que un toque prolongado seleccione texto en los botones */
+button {
+  -webkit-tap-highlight-color: transparent;
+  user-select: none;
+}

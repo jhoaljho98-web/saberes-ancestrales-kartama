@@ -1,0 +1,47 @@
+[
+  {
+    "id": "m1",
+    "numero": 1,
+    "titulo": "Unidad y Origen",
+    "embera": "Jõmãũra",
+    "icono": "🌱",
+    "descripcion": "¿Quiénes somos? La mezcla de pueblos hermanos que aprendió a caminar como uno solo.",
+    "lecturaCompleta": true
+  },
+  {
+    "id": "m2",
+    "numero": 2,
+    "titulo": "Territorio y sitios sagrados",
+    "embera": "Daidrúa",
+    "icono": "🏔️",
+    "descripcion": "Las tres zonas del resguardo y los lugares donde la tierra se vuelve sagrada.",
+    "lecturaCompleta": false
+  },
+  {
+    "id": "m3",
+    "numero": 3,
+    "titulo": "Cultura",
+    "embera": "Nãbẽrãra kũrĩsía",
+    "icono": "🎶",
+    "descripcion": "Los siete hilos que tejen nuestra cultura: lengua, arte, música, danza y saberes.",
+    "lecturaCompleta": false
+  },
+  {
+    "id": "m4",
+    "numero": 4,
+    "titulo": "Autonomía",
+    "embera": "Mũkũrĩsía Judaubemêa",
+    "icono": "🪶",
+    "descripcion": "El árbol del gobierno propio: asamblea, autoridades, guardia y justicia.",
+    "lecturaCompleta": false
+  },
+  {
+    "id": "m5",
+    "numero": 5,
+    "titulo": "Espiritualidad",
+    "embera": "Daijauri",
+    "icono": "🌿",
+    "descripcion": "Sabedores, plantas y sitios sagrados: la medicina y el pensamiento que sostienen la vida.",
+    "lecturaCompleta": false
+  }
+]

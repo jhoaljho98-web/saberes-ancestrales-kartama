@@ -1,0 +1,89 @@
+{
+  "m1": {
+    "completa": true,
+    "titulo": "Unidad y origen del pueblo Kartama",
+    "subtitulo": "Una lectura para reconocernos en lo que somos",
+    "intro": "Esta lectura te acompaña en el primer módulo del curso. Está basada en el Dai Jarabürú (pp. 2 y 10) y se lee en unos 10 a 15 minutos. Al final encontrarás unas preguntas para reflexionar.",
+    "secciones": [
+      {
+        "titulo": "1. ¿Quiénes somos? — La composición del pueblo",
+        "parrafos": [
+          "Somos un pueblo de varios pueblos. No venimos de un solo origen, sino de la mezcla de muchos pueblos hermanos: Anserma —la raíz mayor—, Quimbaya, Umbra, Eberá, Panche, Thamí y Nutabe, que con el tiempo se unieron a los primeros Zopia, Karamanta y Kartama. Decir “Ẽbẽra Kartama” no nombra a un solo pueblo: nombra a todos los que un día se juntaron y aprendieron a caminar como uno solo.",
+          "La unión nació también del dolor. El Dai Jarabürú dice que esa unión fue “voluntaria e involuntaria”. No toda fue elegida: una parte fue forzada por la colonia, cuando los primeros pueblos fueron agrupados como esclavos en las minas de oro de Marmato. Sobre esa unión forzada se fueron sumando, con el tiempo, los demás. Nuestra unidad de hoy nace tanto del cuidado como del sufrimiento, y por eso es tan valiosa.",
+          "Marmato, el lugar donde nos juntamos. En lengua propia, Marmato significa “Río de las rocas”, y el territorio Moragá se entiende como “el lugar sagrado entre la montaña y el río”. Esa relación entre montaña, río y oro no es solo geografía: es un lazo espiritual. La práctica agrominera que se desarrolla hoy en el resguardo es expresión viva de ese lazo ancestral."
+        ]
+      },
+      {
+        "titulo": "2. Los principios que nos sostienen",
+        "parrafos": [
+          "Antes de los cinco principios organizativos (Unidad, Territorio, Cultura, Autonomía y Espiritualidad), el Dai Jarabürú nos recuerda algo más profundo: hay cinco principios para caminar en la existencia. Son la base sobre la que todo lo demás se sostiene.",
+          "El fundamento espiritual. Antes que cualquier estructura, hay un fundamento espiritual: Nũkũrikumá rige todo lo existente; Sisaraka (Karagabí) es el pensamiento creador; Michua (Dana Iũja) es el primer vientre y Madre Tierra. De ahí sale el mandato más importante: pensar y actuar desde el respeto a la vida, al territorio y a los seres que lo habitan.",
+          "Los mayores encomiendan que sostengamos cinco principios:"
+        ],
+        "principios": [
+          {
+            "titulo": "Ser valiente y sabio",
+            "embera": "Jura, Kuita nureadayu",
+            "texto": "No basta con tener miedo o no tenerlo; se trata de saber cuándo actuar y cuándo escuchar. La valentía sin sabiduría se vuelve violencia; la sabiduría sin valentía se vuelve silencio."
+          },
+          {
+            "titulo": "Ser respetuoso",
+            "embera": "Kirakipa nureadayu",
+            "texto": "No solo hacia los mayores: hacia el territorio, los seres que lo habitan y las personas con las que convivimos. Es la base del gobierno propio."
+          },
+          {
+            "titulo": "Hablar con sabiduría",
+            "embera": "Kawabedeaba",
+            "texto": "Nũkũrikumá creó todo por medio de la palabra. La palabra crea. Por eso conviene pensar antes de hablar, decir lo que aporta y callar cuando hace falta."
+          },
+          {
+            "titulo": "Tener buen pensamiento",
+            "embera": "Kurisiabiia nureadayu",
+            "texto": "El pensamiento es la fuente de la palabra y de la acción. Si el pensamiento es claro, la decisión también lo es."
+          },
+          {
+            "titulo": "Tener buen corazón",
+            "embera": "sôbiia nureadayu",
+            "texto": "El corazón es el centro del ser comunitario: no guardar rencor, no actuar desde la envidia, no traicionar la confianza. Sostiene la unidad cuando las diferencias aparecen."
+          }
+        ],
+        "cierre": "Cómo se tejen con los cinco principios organizativos. Estos cinco principios no son cinco cosas separadas: son partes de un mismo modo de estar en el mundo, y se tejen con los principios organizativos. Una manera de leerlos: con buen corazón y respeto, somos Unidad (Jõmãũra); con sabiduría, cuidamos el Territorio (Daidrúa); con palabra sabia, transmitimos la Cultura (Nãbẽrãra kũrĩsía); con valentía y sabiduría, ejercemos la Autonomía (Mũkũrĩsía Judaubemêa); con buen pensamiento, sostenemos la Espiritualidad (Daijauri)."
+      }
+    ],
+    "reflexion": [
+      "De los cinco principios para caminar en la existencia, ¿cuál sientes que ya practicas con fuerza en tu vida y en tu rol como líder?",
+      "¿Cuál te cuesta más sostener, y por qué?",
+      "¿De qué manera estos principios pueden orientar las decisiones que toma el cabildo en su día a día?"
+    ],
+    "referencias": [
+      "Resguardo Indígena Embera Chamí de Cartama. (2022). Dai Jarabürú. Nuestros mandatos. Estatutos organizativos. Asamblea General.",
+      "Resguardo Indígena Embera Chamí de Cartama. (2024). Ẽbẽra Kạrtama Puru. Dai Kĩrĩsía. Plan de vida 2024. CRIDEC–ACICAL–FINDETER.",
+      "Aguirre, J. J. (2024). Nũkũrikumá. El pensamiento de los Ansermas (Tesis). Universidad de Caldas.",
+      "Arredondo Molina, C. A., Muñoz, D. F., Aguirre García, J. J., Gañan Velásquez, N. J., y Velásquez, S. E. (2025). Caracterización Minera con Enfoque Diferencial Cartama. Resguardo Indígena Cartama."
+    ]
+  },
+  "m2": {
+    "completa": false,
+    "titulo": "Territorio y sitios sagrados",
+    "subtitulo": "Daidrúa — el lugar donde la tierra se vuelve memoria",
+    "intro": "El territorio Kartama se organiza en tres zonas —Arkía (Norte), Moragá (Centro) y Amaspache (Sur)— y en 22 comunidades. Cada zona guarda un rostro del territorio: lo ceremonial, lo minero y los nacimientos de agua. La lectura completa de este módulo estará disponible pronto; por ahora puedes poner a prueba lo que sabes con el quiz, el crucigrama y la galería."
+  },
+  "m3": {
+    "completa": false,
+    "titulo": "Cultura",
+    "subtitulo": "Nãbẽrãra kũrĩsía — los siete hilos que nos tejen",
+    "intro": "La cultura Kartama se teje con siete hilos: la lengua propia, el arte (Kipara, Tatuio, mochila), la música (la flauta y el tambor de Tunarpamá), la danza, los saberes ancestrales, la educación y los juegos tradicionales. La lectura completa estará disponible pronto; mientras tanto, explora el quiz, el crucigrama de los siete hilos y la galería."
+  },
+  "m4": {
+    "completa": false,
+    "titulo": "Autonomía",
+    "subtitulo": "Mũkũrĩsía Judaubemêa — el árbol del gobierno propio",
+    "intro": "El gobierno propio se entiende como un árbol (Daibakuru): la comunidad es la raíz y la máxima autoridad, la Asamblea General (Jõmãmebẽra) es donde se decide, y de allí crecen las autoridades, la Guardia Indígena y la justicia propia. La lectura completa estará disponible pronto; por ahora, pon a prueba lo aprendido con el quiz, el crucigrama y la galería."
+  },
+  "m5": {
+    "completa": false,
+    "titulo": "Espiritualidad",
+    "subtitulo": "Daijauri — la medicina y el pensamiento que sostienen la vida",
+    "intro": "La espiritualidad reúne a los sabedores (el Jaibaná, el Tamara), las prácticas de sanación (partería, sobandería, huertos medicinales), las plantas y medicinas propias, y los sitios sagrados como Tatamá, Karamba y el río Arkía. La lectura completa estará disponible pronto; mientras tanto, explora el quiz, el crucigrama y la galería."
+  }
+}

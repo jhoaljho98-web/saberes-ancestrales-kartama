@@ -1,0 +1,52 @@
+{
+ "m1": [
+  "./media/m1/foto1.jpg",
+  "./media/m1/foto2.jpg",
+  "./media/m1/foto3.jpg",
+  "./media/m1/foto4.jpg",
+  "./media/m1/foto5.jpg",
+  "./media/m1/foto6.jpg",
+  "./media/m1/foto7.jpg",
+  "./media/m1/foto8.jpg"
+ ],
+ "m2": [
+  "./media/m2/foto1.jpg",
+  "./media/m2/foto2.jpg",
+  "./media/m2/foto3.jpg",
+  "./media/m2/foto4.jpg",
+  "./media/m2/foto5.jpg",
+  "./media/m2/foto6.jpg",
+  "./media/m2/foto7.jpg",
+  "./media/m2/foto8.jpg"
+ ],
+ "m3": [
+  "./media/m3/foto1.png",
+  "./media/m3/foto2.png",
+  "./media/m3/foto3.jpg",
+  "./media/m3/foto4.png",
+  "./media/m3/foto5.png",
+  "./media/m3/foto6.png",
+  "./media/m3/foto7.png",
+  "./media/m3/foto8.jpg"
+ ],
+ "m4": [
+  "./media/m4/foto1.jpg",
+  "./media/m4/foto2.jpg",
+  "./media/m4/foto3.jpg",
+  "./media/m4/foto4.jpg",
+  "./media/m4/foto5.jpg",
+  "./media/m4/foto6.jpg",
+  "./media/m4/foto7.jpg",
+  "./media/m4/foto8.jpg"
+ ],
+ "m5": [
+  "./media/m5/foto1.jpg",
+  "./media/m5/foto2.jpg",
+  "./media/m5/foto3.jpg",
+  "./media/m5/foto4.jpg",
+  "./media/m5/foto5.jpg",
+  "./media/m5/foto6.jpg",
+  "./media/m5/foto7.jpg",
+  "./media/m5/foto8.jpg"
+ ]
+}

@@ -1,0 +1,1117 @@
+{
+ "m1": [
+  {
+   "id": "m1_q1",
+   "pregunta": "¿Qué significa \"Ëbërá Kartamá Puru\"?",
+   "opciones": [
+    "El pueblo Embera del Chocó",
+    "La unión de muchos pueblos hermanos",
+    "Los descendientes de los españoles",
+    "Una sola familia fundadora"
+   ],
+   "correctas": [
+    1
+   ]
+  },
+  {
+   "id": "m1_q2",
+   "pregunta": "¿Cuáles fueron los primeros pueblos esclavizados en las minas de Marmato?",
+   "opciones": [
+    "Quimbaya, Panche y Nutabe",
+    "Muisca, Cuna y Wayuu",
+    "Zopia, Karamanta y Kartama",
+    "Anserma, Embera y Umbra"
+   ],
+   "correctas": [
+    2
+   ]
+  },
+  {
+   "id": "m1_q3",
+   "pregunta": "¿Cuál de estos NO es un pueblo que compone al pueblo Kartama?",
+   "opciones": [
+    "Anserma",
+    "Quimbaya",
+    "Wayuu",
+    "Eberá"
+   ],
+   "correctas": [
+    2
+   ]
+  },
+  {
+   "id": "m1_q4",
+   "pregunta": "Cuando el Dai Jarabürú dice que la unión fue \"voluntaria e involuntaria\", se refiere a que:",
+   "opciones": [
+    "Hubo dudas para aceptar la unión",
+    "Algunos pueblos eligieron unirse y otros fueron forzados por la colonia",
+    "La unión solo fue válida para los hombres",
+    "Algunos pueblos firmaron y otros no"
+   ],
+   "correctas": [
+    1
+   ]
+  },
+  {
+   "id": "m1_q5",
+   "pregunta": "En lengua propia, ¿qué significa \"Marmato\"?",
+   "opciones": [
+    "Lugar de las montañas",
+    "Río de las rocas",
+    "Casa de los sabedores",
+    "Camino del oro"
+   ],
+   "correctas": [
+    1
+   ]
+  },
+  {
+   "id": "m1_q6",
+   "pregunta": "En lengua propia, \"Moragá\" significa:",
+   "opciones": [
+    "Río de las rocas",
+    "Lugar sagrado entre la montaña y el río",
+    "Casa del pensamiento",
+    "Tierra de los caciques"
+   ],
+   "correctas": [
+    1
+   ]
+  },
+  {
+   "id": "m1_q7",
+   "pregunta": "¿Cómo se llaman las dos metodologías propias con las que se construyó el Plan de Vida (Dai Kĩrĩsía)?",
+   "opciones": [
+    "Asamblea General y Asamblea Zonal",
+    "Tulpa de Saberes y Círculo de Saberes",
+    "Cabildo Mayor y Consejo de Tâmara",
+    "Mingas y Convites"
+   ],
+   "correctas": [
+    1
+   ]
+  },
+  {
+   "id": "m1_q8",
+   "pregunta": "En el gobierno propio del pueblo Kartama, ¿cuál es el máximo escenario de decisión?",
+   "opciones": [
+    "El Nâbera Kartama",
+    "La Asamblea General (Jomameberá)",
+    "El consejo de sabedores",
+    "La guardia indígena"
+   ],
+   "correctas": [
+    1
+   ]
+  },
+  {
+   "id": "m1_q9",
+   "pregunta": "¿Quién se creó a sí mismo y tiene su casa en lo más alto del Tatamá?",
+   "opciones": [
+    "Sisaraka",
+    "Michua",
+    "Nũkũrikumá",
+    "Tâmarakunga"
+   ],
+   "correctas": [
+    2
+   ]
+  },
+  {
+   "id": "m1_q10",
+   "pregunta": "En la cosmovisión Kartama, ¿qué representa el cerro Tatamá?",
+   "opciones": [
+    "El río de los espíritus",
+    "El lugar de origen donde reside Nũkũrikumá",
+    "La casa del Tâmara",
+    "El cerro donde Sisaraka construyó su casa"
+   ],
+   "correctas": [
+    1
+   ]
+  },
+  {
+   "id": "m1_q11",
+   "pregunta": "¿De qué nace Sisaraka (Karagabí), el pensamiento creador?",
+   "opciones": [
+    "Del vientre de Michua",
+    "De la saliva de Nũkũrikumá",
+    "Del trueno del Karambá",
+    "De la totuma de oro"
+   ],
+   "correctas": [
+    1
+   ]
+  },
+  {
+   "id": "m1_q12",
+   "pregunta": "En la cosmovisión Kartama, Sisaraka tiene su casa en:",
+   "opciones": [
+    "El cerro Tatamá",
+    "La laguna del Contento",
+    "El cerro Karambá (hoy Batero)",
+    "El río Arkía"
+   ],
+   "correctas": [
+    2
+   ]
+  },
+  {
+   "id": "m1_q13",
+   "pregunta": "¿Quién es el \"primer vientre\", también llamada Dana Iũja o Madre Tierra?",
+   "opciones": [
+    "Sisaraka",
+    "Inoinotaimakú",
+    "Michua",
+    "Andika"
+   ],
+   "correctas": [
+    2
+   ]
+  },
+  {
+   "id": "m1_q14",
+   "pregunta": "Según la palabra de origen, ¿cuántos mundos componen el universo?",
+   "opciones": [
+    "Cuatro mundos, todos habitados por ansermas",
+    "Ocho mundos: cuatro superiores y cuatro inferiores",
+    "Tres mundos conectados por el río Cauca",
+    "Siete mundos, uno por cada sitio sagrado"
+   ],
+   "correctas": [
+    1
+   ]
+  },
+  {
+   "id": "m1_q15",
+   "pregunta": "Nũkũrikumá entregó a Michua una totuma de oro con agua salada para…",
+   "opciones": [
+    "Curar a los primeros enfermos",
+    "Marcar el territorio",
+    "Crear hombres y mujeres como granos de maíz",
+    "Alimentar a las serpientes"
+   ],
+   "correctas": [
+    2
+   ]
+  },
+  {
+   "id": "m1_q16",
+   "pregunta": "¿Cómo nació la figura del Tâmara (médico tradicional)?",
+   "opciones": [
+    "Fue creado por Michua del barro",
+    "Por la mezcla entre Ansermas y Tamarakas",
+    "Por mandato directo de Sisaraka",
+    "Por una ceremonia de los caciques"
+   ],
+   "correctas": [
+    1
+   ]
+  },
+  {
+   "id": "m1_q17",
+   "pregunta": "¿Cuál de estos NO es un principio para \"caminar en la existencia\"?",
+   "opciones": [
+    "Tener buen pensamiento",
+    "Hablar con sabiduría",
+    "Acumular poder",
+    "Tener buen corazón"
+   ],
+   "correctas": [
+    2
+   ]
+  },
+  {
+   "id": "m1_q18",
+   "pregunta": "\"Jura, Kuita nureadayu\" significa, en lengua propia:",
+   "opciones": [
+    "Ser valiente y sabio",
+    "Ser respetuoso",
+    "Tener buen corazón",
+    "Hablar con sabiduría"
+   ],
+   "correctas": [
+    0
+   ]
+  },
+  {
+   "id": "m1_q19",
+   "pregunta": "¿Qué acción busca, principalmente, el principio Jõmãũra (Unidad)?",
+   "opciones": [
+    "Recuperar territorio",
+    "Fortalecer el gobierno propio y el relacionamiento institucional",
+    "Cuidar la medicina ancestral",
+    "Preservar la lengua propia"
+   ],
+   "correctas": [
+    1
+   ]
+  },
+  {
+   "id": "m1_q20",
+   "pregunta": "¿Cuál es la \"raíz fundamental\" de la comunidad y de la educación propia?",
+   "opciones": [
+    "El cabildo",
+    "La asamblea general",
+    "La familia",
+    "La iglesia"
+   ],
+   "correctas": [
+    2
+   ]
+  }
+ ],
+ "m2": [
+  {
+   "id": "m2_q1",
+   "pregunta": "¿Cuáles son las tres zonas territoriales del resguardo Kartama?",
+   "opciones": [
+    "Arkía, Marmato y Amaspache",
+    "Arkía, Moragá y Amaspache",
+    "Moragá, Damadé y Amaspache",
+    "Arkía, Moragá y Tacón"
+   ],
+   "correctas": [
+    1
+   ]
+  },
+  {
+   "id": "m2_q2",
+   "pregunta": "¿En cuántas comunidades está organizado hoy el territorio Kartama?",
+   "opciones": [
+    "22 comunidades",
+    "18 comunidades",
+    "20 comunidades",
+    "24 comunidades"
+   ],
+   "correctas": [
+    0
+   ]
+  },
+  {
+   "id": "m2_q3",
+   "pregunta": "La Zona Arkía (Norte) se reconoce especialmente como…",
+   "opciones": [
+    "El corazón de la minería ancestral",
+    "Tierra de nacimientos de agua y suelos fértiles",
+    "Territorio ceremonial, donde se enterraba a los caciques",
+    "La zona de los petroglifos y la lengua"
+   ],
+   "correctas": [
+    2
+   ]
+  },
+  {
+   "id": "m2_q4",
+   "pregunta": "¿Qué zona es el “corazón de la minería ancestral”?",
+   "opciones": [
+    "Arkía",
+    "Moragá",
+    "Amaspache",
+    "Saamogá"
+   ],
+   "correctas": [
+    1
+   ]
+  },
+  {
+   "id": "m2_q5",
+   "pregunta": "La Zona Amaspache (Sur) se caracteriza especialmente por…",
+   "opciones": [
+    "Sus nacimientos de agua y suelos fértiles",
+    "Ser el territorio ceremonial de los caciques",
+    "Ser el corazón de la minería ancestral",
+    "Concentrar los petroglifos del territorio"
+   ],
+   "correctas": [
+    0
+   ]
+  },
+  {
+   "id": "m2_q6",
+   "pregunta": "Para el pueblo Kartama, ¿qué es un sitio sagrado?",
+   "opciones": [
+    "Un lugar de la naturaleza que se protege por su belleza",
+    "Una puerta entre este mundo y los mundos de arriba y de abajo",
+    "Un territorio reservado para las ceremonias del cabildo",
+    "Un punto donde se hacían los entierros antiguos"
+   ],
+   "correctas": [
+    1
+   ]
+  },
+  {
+   "id": "m2_q7",
+   "pregunta": "Según la palabra de origen, ¿cuántos mundos componen el universo?",
+   "opciones": [
+    "Ocho: cuatro arriba y cuatro abajo",
+    "Siete: tres arriba, este y tres abajo",
+    "Cuatro: dos arriba y dos abajo",
+    "Nueve: cuatro arriba, este y cuatro abajo"
+   ],
+   "correctas": [
+    0
+   ]
+  },
+  {
+   "id": "m2_q8",
+   "pregunta": "¿Por dónde se entra a los mundos superiores y a los subterráneos?",
+   "opciones": [
+    "A ambos se entra por los sitios sagrados",
+    "A los de arriba por las montañas; a los de abajo por los ríos",
+    "A los de arriba por los ríos; a los de abajo por las montañas",
+    "A los de arriba por el cielo; a los de abajo por las cuevas"
+   ],
+   "correctas": [
+    1
+   ]
+  },
+  {
+   "id": "m2_q9",
+   "pregunta": "El río Arquía es conocido en lengua propia como…",
+   "opciones": [
+    "La gran corriente de los antepasados",
+    "El río de las rocas",
+    "El río de la sal",
+    "El río de los espíritus"
+   ],
+   "correctas": [
+    3
+   ]
+  },
+  {
+   "id": "m2_q10",
+   "pregunta": "En Moragá, el cerro de la minería ancestral (hoy El Burro) lleva el nombre propio de…",
+   "opciones": [
+    "Kurazape",
+    "Antumía",
+    "Marmato",
+    "Damadé"
+   ],
+   "correctas": [
+    2
+   ]
+  },
+  {
+   "id": "m2_q11",
+   "pregunta": "La Laguna de Contento (Amaspache) es sagrada porque allí…",
+   "opciones": [
+    "Vivía la serpiente sagrada, hija de la madre de las aguas",
+    "Reside Nũkũrikumá, el principio creador",
+    "Se enterraba a los caciques del pueblo",
+    "Sisaraka construyó su casa"
+   ],
+   "correctas": [
+    0
+   ]
+  },
+  {
+   "id": "m2_q12",
+   "pregunta": "El cerro Damadé (San Juan), también llamado «De las brujas», es cuidado especialmente por…",
+   "opciones": [
+    "Los Tâmara",
+    "Las mujeres",
+    "La guardia indígena",
+    "Los Êbera Boro"
+   ],
+   "correctas": [
+    1
+   ]
+  },
+  {
+   "id": "m2_q13",
+   "pregunta": "¿Por qué son sagrados los petroglifos (Planchao, La Flecha, La Ermita)?",
+   "opciones": [
+    "Marcan los límites entre las tres zonas",
+    "Señalan los caminos hacia las minas de oro",
+    "Indican dónde están los cementerios antiguos",
+    "Son piedras donde los mayores dejaron tallado su pensamiento"
+   ],
+   "correctas": [
+    3
+   ]
+  },
+  {
+   "id": "m2_q14",
+   "pregunta": "El gran Irrá, “la gran corriente de los antepasados”, es el nombre propio del…",
+   "opciones": [
+    "Río Arquía",
+    "Río Marmato",
+    "Río Cauca",
+    "Río Magdalena"
+   ],
+   "correctas": [
+    2
+   ]
+  },
+  {
+   "id": "m2_q15",
+   "pregunta": "El Tatamá (Apía, Risaralda), fuera del resguardo, es sagrado porque es…",
+   "opciones": [
+    "La casa de Sisaraka",
+    "La casa de Nũkũrikumá",
+    "La montaña del Kurikamayo",
+    "El sitio del primer hijo de Sisaraka"
+   ],
+   "correctas": [
+    1
+   ]
+  },
+  {
+   "id": "m2_q16",
+   "pregunta": "El Karambá (hoy Batero, en Quinchía) es reconocido como…",
+   "opciones": [
+    "La casa de Nũkũrikumá",
+    "La montaña del Kurikamayo",
+    "El lugar de reunión ancestral",
+    "La casa de Sisaraka"
+   ],
+   "correctas": [
+    3
+   ]
+  },
+  {
+   "id": "m2_q17",
+   "pregunta": "¿Cuál de estos sitios sagrados está FUERA del resguardo actual?",
+   "opciones": [
+    "La Laguna de Contento",
+    "El cerro Damadé",
+    "El río Arquía",
+    "Tabuchía, en el Nevado del Ruiz"
+   ],
+   "correctas": [
+    3
+   ]
+  },
+  {
+   "id": "m2_q18",
+   "pregunta": "En 2025, ¿qué marcó el Acuerdo 482 de la ANT?",
+   "opciones": [
+    "La constitución del Resguardo",
+    "El reconocimiento como Parcialidad Indígena",
+    "La primera organización en San Juan",
+    "La unificación con el Resguardo de Supía"
+   ],
+   "correctas": [
+    0
+   ]
+  },
+  {
+   "id": "m2_q19",
+   "pregunta": "¿Cuál es hoy la principal amenaza al territorio?",
+   "opciones": [
+    "El abandono de los jóvenes que migran a la ciudad",
+    "La pérdida progresiva de la lengua propia",
+    "Los títulos mineros de Aris Mining y la contaminación con mercurio",
+    "Los conflictos entre las tres zonas territoriales"
+   ],
+   "correctas": [
+    2
+   ]
+  },
+  {
+   "id": "m2_q20",
+   "pregunta": "Frente a la megaminería, el pueblo Kartama reivindica una identidad propia llamada…",
+   "opciones": [
+    "La minería ancestral en armonía con el río",
+    "La economía propia del Buen Vivir",
+    "La soberanía alimentaria del territorio",
+    "La agrominería: minería artesanal y agricultura, sin químicos"
+   ],
+   "correctas": [
+    3
+   ]
+  }
+ ],
+ "m3": [
+  {
+   "id": "m3_q1",
+   "pregunta": "¿Cuál es el principio que agrupa la lengua, el arte, las danzas y los saberes propios?",
+   "opciones": [
+    "Jõmãũra (Unidad)",
+    "Daidrúa (Territorio)",
+    "Nãberãra kũrĩsía (Cultura)",
+    "Daijauri (Espiritualidad)"
+   ],
+   "correctas": [
+    2
+   ]
+  },
+  {
+   "id": "m3_q2",
+   "pregunta": "Según el Dai Jarabürú, ¿en qué consiste el principio de Cultura?",
+   "opciones": [
+    "La recuperación y preservación cultural y de la identidad",
+    "La recuperación territorial, la constitución y la ampliación",
+    "El fortalecimiento del gobierno propio y el relacionamiento institucional",
+    "Recuperar el balance espiritual y velar por la salud"
+   ],
+   "correctas": [
+    0
+   ]
+  },
+  {
+   "id": "m3_q3",
+   "pregunta": "Los mayores comparan la cultura con un tejido vivo, al que llaman…",
+   "opciones": [
+    "El Kipara",
+    "El Tatũĩõ",
+    "El Ibamá",
+    "El Daidrúa"
+   ],
+   "correctas": [
+    1
+   ]
+  },
+  {
+   "id": "m3_q4",
+   "pregunta": "¿Cuál es la raíz lingüística del pueblo Kartama, hoy en revitalización?",
+   "opciones": [
+    "El Embera Chamí hablado en Riosucio",
+    "El Chibcha de la sabana de Bogotá",
+    "El Quechua traído por migraciones antiguas",
+    "La lengua Umbra o Anserma, de estructura Karibe"
+   ],
+   "correctas": [
+    3
+   ]
+  },
+  {
+   "id": "m3_q5",
+   "pregunta": "Cuando decimos “recuperar la lengua es recuperar el territorio”, queremos decir que la lengua propia…",
+   "opciones": [
+    "Es la casa de los ancestros: en ella vive el pensamiento propio que nos liga al territorio",
+    "Es útil sobre todo para hablar en las asambleas del cabildo",
+    "Guarda los nombres de los sitios sagrados, por eso resulta práctica",
+    "Sirve para entender los documentos propios"
+   ],
+   "correctas": [
+    0
+   ]
+  },
+  {
+   "id": "m3_q6",
+   "pregunta": "¿Qué se reconoce como el eje fundamental de la cultura, por donde el saber pasa de mayores a niños?",
+   "opciones": [
+    "Los saberes ancestrales",
+    "La educación propia",
+    "La tradición oral",
+    "La lengua propia"
+   ],
+   "correctas": [
+    2
+   ]
+  },
+  {
+   "id": "m3_q7",
+   "pregunta": "El Kipara (pintura ritual del cuerpo) se hace principalmente con la tinta de…",
+   "opciones": [
+    "La bija y el carbón vegetal",
+    "La jagua (negro-azul) y el achiote o Kachi (ocre)",
+    "El barro rojo y la ceniza",
+    "La sangre de drago y la cúrcuma"
+   ],
+   "correctas": [
+    1
+   ]
+  },
+  {
+   "id": "m3_q8",
+   "pregunta": "Para el pueblo Kartama, la tinta de la jagua del Kipara NO es un adorno. Es…",
+   "opciones": [
+    "Una marca para reconocer a cada comunidad",
+    "Un sello de las autoridades tradicionales",
+    "Una protección solo para los guerreros",
+    "Una medicina y un puente para comunicarse con el mundo de los espíritus"
+   ],
+   "correctas": [
+    3
+   ]
+  },
+  {
+   "id": "m3_q9",
+   "pregunta": "¿Qué son los petroglifos (por ejemplo en Sâmoga, “la ciudad del tiempo”)?",
+   "opciones": [
+    "Marcas que señalan los límites del territorio",
+    "Mapas de los caminos a los sitios sagrados",
+    "Piedras donde los mayores dejaron tallado su pensamiento",
+    "Registros de los entierros de los caciques"
+   ],
+   "correctas": [
+    2
+   ]
+  },
+  {
+   "id": "m3_q10",
+   "pregunta": "El calendario propio del pueblo Kartama se rige principalmente por…",
+   "opciones": [
+    "El sol y el cambio de estaciones",
+    "Los ciclos de crecida del río",
+    "El paso de las aves migratorias",
+    "Las etapas de la luna"
+   ],
+   "correctas": [
+    3
+   ]
+  },
+  {
+   "id": "m3_q11",
+   "pregunta": "Según el saber propio, la luna marca el momento adecuado para…",
+   "opciones": [
+    "Reunir la asamblea del cabildo",
+    "La siembra, los cortes y las cosechas",
+    "Las ceremonias de sanación del Tâmara",
+    "El pagamento en los sitios sagrados"
+   ],
+   "correctas": [
+    1
+   ]
+  },
+  {
+   "id": "m3_q12",
+   "pregunta": "¿Cuál de estos saberes hace parte del principio de Cultura según el Dai Jarabürú?",
+   "opciones": [
+    "La constitución y la ampliación del resguardo",
+    "La guardia indígena y la justicia propia",
+    "Las danzas, la música y el arte propio",
+    "El relacionamiento con las instituciones del Estado"
+   ],
+   "correctas": [
+    2
+   ]
+  },
+  {
+   "id": "m3_q13",
+   "pregunta": "Kartama Ibamá significa…",
+   "opciones": [
+    "El primer vientre, madre de la tierra",
+    "El pensamiento creador que se creó a sí mismo",
+    "El río que canta a los espíritus",
+    "El canto del espíritu de las montañas"
+   ],
+   "correctas": [
+    3
+   ]
+  },
+  {
+   "id": "m3_q14",
+   "pregunta": "Según el relato de origen, ¿qué saber nos dejó Tunarpamá cuando bajó al cerro Kukuruma (hoy Ingrumá)?",
+   "opciones": [
+    "A construir los tambores y las flautas, y a hacerlos sonar",
+    "A tejer las mochilas y los collares de chaquira",
+    "A leer las grafías talladas en la piedra",
+    "A preparar la tinta del Kipara"
+   ],
+   "correctas": [
+    0
+   ]
+  },
+  {
+   "id": "m3_q15",
+   "pregunta": "Según los mayores, ¿dónde empieza a tejerse la cultura?",
+   "opciones": [
+    "En la escuela, con los etnoeducadores",
+    "En la familia, con las historias de origen",
+    "En el Círculo de Saberes del cabildo",
+    "En las ceremonias con el Tâmara"
+   ],
+   "correctas": [
+    1
+   ]
+  }
+ ],
+ "m4": [
+  {
+   "id": "m4_q1",
+   "pregunta": "¿Qué significa la autonomía (Mükurisia Judaubemêa) para el pueblo Kartama?",
+   "opciones": [
+    "Gobernarnos por nuestros usos y costumbres, sin depender de lo de afuera",
+    "Recuperar y preservar la cultura y la identidad",
+    "Recuperar y ampliar el territorio ancestral",
+    "Mantener el balance espiritual y la salud"
+   ],
+   "correctas": [
+    0
+   ]
+  },
+  {
+   "id": "m4_q2",
+   "pregunta": "En el árbol del gobierno propio (Dai Bakuru), ¿qué está en la raíz?",
+   "opciones": [
+    "El Nâbera Kartama",
+    "La Asamblea de autoridades",
+    "La comunidad",
+    "La Guardia Indígena"
+   ],
+   "correctas": [
+    2
+   ]
+  },
+  {
+   "id": "m4_q3",
+   "pregunta": "¿Cuál es el máximo escenario de decisión del gobierno propio?",
+   "opciones": [
+    "La Asamblea Zonal",
+    "La Asamblea General (Jomameberá)",
+    "El Consejo de Naberara",
+    "El Nâbera Kartama"
+   ],
+   "correctas": [
+    1
+   ]
+  },
+  {
+   "id": "m4_q4",
+   "pregunta": "En la Asamblea General (Jomameberá), ¿quiénes tienen voz y voto?",
+   "opciones": [
+    "Solo las autoridades tradicionales",
+    "Solo los mayores de edad",
+    "Solo los Êbera Boro de cada comunidad",
+    "Todos: hombres, mujeres y niños"
+   ],
+   "correctas": [
+    3
+   ]
+  },
+  {
+   "id": "m4_q5",
+   "pregunta": "¿Qué autoridad representa a todo el pueblo ante las instituciones?",
+   "opciones": [
+    "El Nâbera Kartama",
+    "El Êbera Boro",
+    "El Êbera shiobari",
+    "El Tâmará"
+   ],
+   "correctas": [
+    0
+   ]
+  },
+  {
+   "id": "m4_q6",
+   "pregunta": "Los Nâbera de zona representan…",
+   "opciones": [
+    "Las 22 comunidades",
+    "La Guardia Indígena",
+    "Las tres zonas (Amaspache, Moragá y Arkía)",
+    "El consejo de sabedores"
+   ],
+   "correctas": [
+    2
+   ]
+  },
+  {
+   "id": "m4_q7",
+   "pregunta": "¿Quién es el Êbera Boro?",
+   "opciones": [
+    "El mando mayor de la guardia",
+    "La autoridad y líder de cada una de las 22 comunidades",
+    "El representante del pueblo ante el Estado",
+    "El sabedor que aconseja al gobierno"
+   ],
+   "correctas": [
+    1
+   ]
+  },
+  {
+   "id": "m4_q8",
+   "pregunta": "¿Quién es el Êbera shiobari?",
+   "opciones": [
+    "El máximo representante del pueblo",
+    "El sabedor en medicina tradicional",
+    "El coordinador del principio de Autonomía",
+    "El mando mayor de la Guardia Indígena"
+   ],
+   "correctas": [
+    3
+   ]
+  },
+  {
+   "id": "m4_q9",
+   "pregunta": "En la estructura de gobierno, ¿qué hace el Tâmará?",
+   "opciones": [
+    "Representa a las comunidades de la zona centro",
+    "Coordina el principio de Autonomía",
+    "Aconseja al gobierno desde la medicina y la espiritualidad",
+    "Es el mando mayor de la guardia"
+   ],
+   "correctas": [
+    2
+   ]
+  },
+  {
+   "id": "m4_q10",
+   "pregunta": "¿Quiénes conforman el consejo de Naberara?",
+   "opciones": [
+    "Los exgobernadores, que aconsejan desde su experiencia",
+    "Los Êbera Boro de las 22 comunidades",
+    "Los sabedores en medicina",
+    "Los miembros de la guardia"
+   ],
+   "correctas": [
+    0
+   ]
+  },
+  {
+   "id": "m4_q11",
+   "pregunta": "El periodo de gobierno de las autoridades tradicionales es de…",
+   "opciones": [
+    "Un año, sin reelección",
+    "Cuatro años, como los cargos municipales",
+    "De por vida, mientras la comunidad lo respete",
+    "Dos años, con opción de reelección"
+   ],
+   "correctas": [
+    3
+   ]
+  },
+  {
+   "id": "m4_q12",
+   "pregunta": "¿Cuál es un requisito para ser Nâbera Kartama?",
+   "opciones": [
+    "Ser la persona de más edad del pueblo",
+    "Haber sido Êbera Boro y Nâbera de zona",
+    "Ser nombrado por la alcaldía del municipio",
+    "Tener el mayor número de tierras"
+   ],
+   "correctas": [
+    1
+   ]
+  },
+  {
+   "id": "m4_q13",
+   "pregunta": "En la justicia propia, ¿cuál es la primera vía para resolver una desarmonía?",
+   "opciones": [
+    "La cárcel del municipio",
+    "La palabra, buscando la resocialización",
+    "Una multa en dinero",
+    "La expulsión del resguardo"
+   ],
+   "correctas": [
+    1
+   ]
+  },
+  {
+   "id": "m4_q14",
+   "pregunta": "¿Cuál de estas acciones corresponde al principio de Autonomía (Mükurisia Judaubemêa)?",
+   "opciones": [
+    "La recuperación y ampliación del territorio",
+    "La preservación de la cultura y la lengua",
+    "Buscar una autonomía consolidada (económica, política, social y territorial) y la soberanía alimentaria",
+    "Recuperar el balance espiritual"
+   ],
+   "correctas": [
+    2
+   ]
+  },
+  {
+   "id": "m4_q15",
+   "pregunta": "¿Cuál de estos es uno de los cinco procesos del principio de Autonomía?",
+   "opciones": [
+    "Los sitios sagrados",
+    "Las danzas y la música",
+    "Los saberes ancestrales",
+    "La justicia propia"
+   ],
+   "correctas": [
+    3
+   ]
+  }
+ ],
+ "m5": [
+  {
+   "id": "m5_q1",
+   "pregunta": "¿Cuál de estas acciones corresponde al principio Daijauri (Espiritualidad)?",
+   "opciones": [
+    "La recuperación y ampliación del territorio",
+    "Recuperar el balance espiritual y velar por la salud de la comunidad",
+    "El relacionamiento con las instituciones",
+    "La preservación de las danzas y los juegos propios"
+   ],
+   "correctas": [
+    1
+   ]
+  },
+  {
+   "id": "m5_q2",
+   "pregunta": "En la estructura de gobierno, ¿qué papel cumple el Tâmará?",
+   "opciones": [
+    "Representa a las comunidades de la zona centro",
+    "Es el mando mayor de la Guardia Indígena",
+    "Aconseja al gobierno como sabedor en medicina tradicional",
+    "Coordina los proyectos del resguardo"
+   ],
+   "correctas": [
+    2
+   ]
+  },
+  {
+   "id": "m5_q3",
+   "pregunta": "¿Quiénes conforman el Consejo de Sabedores?",
+   "opciones": [
+    "Los exgobernadores del pueblo",
+    "Los sabedores en medicina tradicional y prácticas espirituales",
+    "Los Êbera Boro de las comunidades",
+    "Los mandos de la Guardia Indígena"
+   ],
+   "correctas": [
+    1
+   ]
+  },
+  {
+   "id": "m5_q4",
+   "pregunta": "Según el relato de origen, ¿de qué hizo Tâmarakunga a los Tamarakas?",
+   "opciones": [
+    "Del agua, la sal y la tierra",
+    "De la saliva del creador",
+    "Del oro del cerro Karambá",
+    "Del barro negro del río Irrá"
+   ],
+   "correctas": [
+    3
+   ]
+  },
+  {
+   "id": "m5_q5",
+   "pregunta": "¿Cómo aprendieron nuestros antepasados a ser Tâmaras, a sanar?",
+   "opciones": [
+    "Cuando los Tamarakas se unieron con la gente de este mundo",
+    "Cuando Nukurikuma entregó la totuma de oro",
+    "Cuando Xixaraka bajó del Tatamá",
+    "Cuando los Andukías enseñaron su canto"
+   ],
+   "correctas": [
+    0
+   ]
+  },
+  {
+   "id": "m5_q6",
+   "pregunta": "¿Qué es el Ibaka?",
+   "opciones": [
+    "El canto del espíritu de las montañas",
+    "La pintura ritual con jagua",
+    "Medicina para conectarse con el pensamiento de todo lo que existe",
+    "El tejido que guarda la memoria"
+   ],
+   "correctas": [
+    2
+   ]
+  },
+  {
+   "id": "m5_q7",
+   "pregunta": "¿Cómo hace su trabajo de sanación el Jaibaná?",
+   "opciones": [
+    "Con el manejo de los espíritus, por el ritual del canto de Jai",
+    "Con pomadas y baños de plantas",
+    "Acompañando los nacimientos",
+    "Con la totuma de agua salada"
+   ],
+   "correctas": [
+    0
+   ]
+  },
+  {
+   "id": "m5_q8",
+   "pregunta": "Las medicinas propias que nombran los mayores son…",
+   "opciones": [
+    "El maíz, el fríjol y la sal",
+    "La ruda, la caléndula y el saúco",
+    "El abuelo tabaco, la madre coca y el sueño del Ibaka",
+    "La jagua, el achiote y el carbón"
+   ],
+   "correctas": [
+    2
+   ]
+  },
+  {
+   "id": "m5_q9",
+   "pregunta": "En la cosmovisión Kartama, ¿qué representa el río Arkía?",
+   "opciones": [
+    "El divisor entre los mundos, guardado por Kananúo",
+    "El Río de los Espíritus, centro ceremonial",
+    "El lugar donde reside Nukurikuma",
+    "La morada del primer Jaibaná"
+   ],
+   "correctas": [
+    1
+   ]
+  },
+  {
+   "id": "m5_q10",
+   "pregunta": "¿Cuál es el sitio de origen, donde reside Nukurikuma?",
+   "opciones": [
+    "El cerro Karambá",
+    "El río Arkía",
+    "La Laguna El Contento",
+    "El cerro Tatamá"
+   ],
+   "correctas": [
+    3
+   ]
+  },
+  {
+   "id": "m5_q11",
+   "pregunta": "¿Quién tiene su morada en el cerro Karambá?",
+   "opciones": [
+    "Xixaraka, el primer Jaibaná",
+    "Kananúo, guardián de los mundos de abajo",
+    "Tâmarakunga, el padre sin origen",
+    "Los Andukías, guías de los espíritus"
+   ],
+   "correctas": [
+    0
+   ]
+  },
+  {
+   "id": "m5_q12",
+   "pregunta": "La sobandería sana combinando…",
+   "opciones": [
+    "El canto de Jai y el tabaco",
+    "Las manos y las plantas medicinales",
+    "El agua del río y la palabra",
+    "El ayuno y el sueño del Ibaka"
+   ],
+   "correctas": [
+    1
+   ]
+  },
+  {
+   "id": "m5_q13",
+   "pregunta": "¿Cuál de estas plantas ayuda en los problemas respiratorios?",
+   "opciones": [
+    "La ruda",
+    "La caléndula",
+    "La hierbabuena",
+    "El saúco"
+   ],
+   "correctas": [
+    3
+   ]
+  },
+  {
+   "id": "m5_q14",
+   "pregunta": "¿Qué busca la salud intercultural?",
+   "opciones": [
+    "Reemplazar la medicina propia por la occidental",
+    "Que solo los sabedores atiendan la salud",
+    "Llevar todos los casos de salud al hospital",
+    "Que la medicina propia y la occidental se complementen"
+   ],
+   "correctas": [
+    3
+   ]
+  },
+  {
+   "id": "m5_q15",
+   "pregunta": "¿Cuál de estos es uno de los seis procesos del principio de Espiritualidad?",
+   "opciones": [
+    "La justicia propia",
+    "La soberanía alimentaria",
+    "Los huertos medicinales",
+    "Los juegos tradicionales"
+   ],
+   "correctas": [
+    2
+   ]
+  }
+ ]
+}

@@ -1,0 +1,12 @@
+// Punto de entrada de la aplicación.
+// Aquí React "monta" toda la app dentro del <div id="root"> del index.html.
+import React from 'react'
+import ReactDOM from 'react-dom/client'
+import App from './App.jsx'
+import './index.css'
+
+ReactDOM.createRoot(document.getElementById('root')).render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
+)
