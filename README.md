@@ -23,7 +23,10 @@ Cada módulo tiene cuatro actividades:
 | 📖 **Lectura** | Texto del módulo, formateado para leer en celular | Completa en Módulo 1; introducción en los demás |
 | ❓ **Quiz** | Opción múltiple con las preguntas del Kahoot | Los 5 módulos (20/20/15/15/15 preguntas) |
 | 🧩 **Crucigrama** | Cuadrícula jugable generada desde las palabras clave | Los 5 módulos |
-| 🖼️ **Galería** | Fotos reales de la comunidad | 8 fotos curadas por módulo |
+| 🖼️ **Galería** | Fotos reales de la comunidad, seleccionadas por la comunidad | 18–44 fotos por módulo |
+
+Además, desde el inicio hay una galería general **"Nuestro proceso"** (📸) con
+fotos de los encuentros y de la comunidad viviendo el curso.
 
 El progreso (lectura leída, mejor puntaje del quiz, crucigrama resuelto) se
 muestra como puntos en el inicio.
@@ -77,11 +80,13 @@ Todo proviene de `Documentos/Cartama/2026/` y de la base audiovisual en
 - Lecturas y Kahoots: carpetas `Módulo 2`…`Módulo 5` y la raíz de `2026/`.
 - Crucigramas: los `.docx` de crucigrama de los módulos 3, 4 y 5; los de los
   módulos 1 y 2 se derivaron de su lectura y su Kahoot.
-- Fotos: temas 01, 03, 04, 06 y 08 de la base audiovisual.
+- Fotos: seleccionadas a mano por la comunidad. Cada tema de la base audiovisual
+  tiene una subcarpeta `_App_Modulo_N_...` con las fotos elegidas para ese módulo;
+  `07 Proceso educativo/Material para subir a la App/` alimenta "Nuestro proceso".
+  Al copiarlas se redimensionan a 1400px y se corrige la rotación EXIF.
 
 ## Pendientes (siguientes fases)
 
 - Lecturas completas de los módulos 2 a 5 (hoy muestran una introducción).
 - Videos de la base audiovisual (por ahora solo fotos).
 - Audio comunitario en las lecturas.
-- Optimizar el peso de las fotos (hoy ~21 MB; se pueden reducir a ~1 MB).

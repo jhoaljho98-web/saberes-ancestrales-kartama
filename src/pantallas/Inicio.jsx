@@ -6,7 +6,7 @@ import modulos from '../data/modulos.json'
 // Props:
 // - progreso: objeto con el avance guardado
 // - onAbrirModulo: función que recibe el id del módulo elegido
-export default function Inicio({ progreso, onAbrirModulo }) {
+export default function Inicio({ progreso, onAbrirModulo, onAbrirProceso }) {
   // Cuenta cuántas de las 4 actividades del módulo están completas.
   function actividadesHechas(id) {
     const m = progreso.modulos?.[id] || {}
@@ -85,6 +85,22 @@ export default function Inicio({ progreso, onAbrirModulo }) {
           )
         })}
       </div>
+
+      {/* Galería general del proceso del curso */}
+      <button
+        type="button"
+        onClick={onAbrirProceso}
+        className="mt-4 flex w-full items-center gap-4 rounded-2xl bg-ocre p-5 text-left text-white shadow-md transition active:scale-[0.99]"
+      >
+        <span className="text-3xl">📸</span>
+        <div className="flex-1">
+          <h2 className="text-xl font-bold">Nuestro proceso</h2>
+          <p className="text-sm text-white/85">
+            Fotos de los encuentros y la comunidad viviendo el curso.
+          </p>
+        </div>
+        <span className="text-2xl text-white/70">›</span>
+      </button>
 
       <p className="mt-8 text-center text-sm text-tierra/50">
         Curso Saberes Ancestrales · Resguardo Indígena Ẽbẽra Chamí de Cartama

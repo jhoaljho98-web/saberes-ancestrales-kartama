@@ -5,6 +5,8 @@ import Lectura from './pantallas/Lectura.jsx'
 import Quiz from './pantallas/Quiz.jsx'
 import Crucigrama from './pantallas/Crucigrama.jsx'
 import Galeria from './pantallas/Galeria.jsx'
+import modulos from './data/modulos.json'
+import galerias from './data/galerias.json'
 import { leerProgreso } from './utils/almacenamiento.js'
 
 // COMPONENTE PRINCIPAL
@@ -57,7 +59,26 @@ export default function App() {
     return <Crucigrama moduloId={moduloId} onVolver={volverAlModulo} onAvance={refrescar} />
   }
   if (vista === 'galeria') {
-    return <Galeria moduloId={moduloId} onVolver={volverAlModulo} />
+    const modulo = modulos.find((m) => m.id === moduloId)
+    return (
+      <Galeria
+        titulo={`Galería · ${modulo.titulo}`}
+        fotos={galerias[moduloId]}
+        moduloId={moduloId}
+        onVolver={volverAlModulo}
+      />
+    )
+  }
+
+  // Galería general del proceso del curso (se abre desde el inicio).
+  if (vista === 'proceso') {
+    return (
+      <Galeria
+        titulo="Nuestro proceso"
+        fotos={galerias.proceso}
+        onVolver={volverAlInicio}
+      />
+    )
   }
 
   // --- Hub del módulo ---
@@ -73,5 +94,11 @@ export default function App() {
   }
 
   // --- Vista por defecto: inicio ---
-  return <Inicio progreso={progreso} onAbrirModulo={abrirModulo} />
+  return (
+    <Inicio
+      progreso={progreso}
+      onAbrirModulo={abrirModulo}
+      onAbrirProceso={() => setVista('proceso')}
+    />
+  )
 }

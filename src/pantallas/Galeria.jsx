@@ -1,26 +1,27 @@
 import { useEffect, useState } from 'react'
-import galerias from '../data/galerias.json'
-import modulos from '../data/modulos.json'
 import Encabezado from '../componentes/Encabezado.jsx'
 import { marcarGaleriaVista } from '../utils/almacenamiento.js'
 
-// PANTALLA DE GALERÍA
-// Muestra fotos reales de la comunidad relacionadas con el módulo, en una
-// cuadrícula. Al tocar una foto se abre en grande (lightbox sencillo).
-// Props: moduloId, onVolver
-export default function Galeria({ moduloId, onVolver }) {
-  const modulo = modulos.find((m) => m.id === moduloId)
-  const fotos = galerias[moduloId] || []
+// PANTALLA DE GALERÍA (genérica)
+// Muestra un conjunto de fotos en cuadrícula; al tocar una se abre en grande
+// (lightbox sencillo). Sirve tanto para la galería de un módulo como para la
+// galería general "Nuestro proceso".
+// Props:
+// - titulo: texto del encabezado
+// - fotos: lista de rutas de imagen
+// - moduloId: (opcional) si viene, marca la galería del módulo como vista
+// - onVolver: regresar
+export default function Galeria({ titulo, fotos = [], moduloId, onVolver }) {
   const [abierta, setAbierta] = useState(null) // índice de la foto ampliada
 
-  // Al abrir la galería, la marcamos como vista (cuenta en el progreso).
+  // Si es la galería de un módulo, la marcamos como vista (cuenta en el progreso).
   useEffect(() => {
-    marcarGaleriaVista(moduloId)
+    if (moduloId) marcarGaleriaVista(moduloId)
   }, [moduloId])
 
   return (
     <div className="min-h-screen">
-      <Encabezado titulo={`Galería · ${modulo.titulo}`} onVolver={onVolver} />
+      <Encabezado titulo={titulo} onVolver={onVolver} />
 
       <div className="mx-auto max-w-2xl px-4 pb-12">
         <p className="mb-4 text-center text-sm text-tierra/60">
@@ -29,7 +30,7 @@ export default function Galeria({ moduloId, onVolver }) {
 
         {fotos.length === 0 ? (
           <p className="mt-8 text-center text-tierra/50">
-            Aún no hay fotos cargadas para este módulo.
+            Aún no hay fotos cargadas.
           </p>
         ) : (
           <div className="grid grid-cols-2 gap-3 sm:grid-cols-3">
@@ -42,7 +43,7 @@ export default function Galeria({ moduloId, onVolver }) {
               >
                 <img
                   src={src}
-                  alt={`Foto ${i + 1} del módulo ${modulo.titulo}`}
+                  alt={`Foto ${i + 1}`}
                   loading="lazy"
                   className="h-full w-full object-cover"
                 />
