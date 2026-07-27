@@ -4,6 +4,21 @@ import Encabezado from '../componentes/Encabezado.jsx'
 import Boton from '../componentes/Boton.jsx'
 import { marcarLecturaLeida } from '../utils/almacenamiento.js'
 
+// Resalta en negrita el término inicial de una viñeta (lo que va antes del
+// primer ":"), cuando ese término es corto. Ej.: "Ruda: alivia dolores..."
+function resaltarLead(texto) {
+  const i = texto.indexOf(':')
+  if (i > 0 && i < 40) {
+    return (
+      <>
+        <strong className="text-bosque">{texto.slice(0, i)}</strong>
+        {texto.slice(i)}
+      </>
+    )
+  }
+  return texto
+}
+
 // PANTALLA DE LECTURA
 // Muestra el texto del módulo, formateado para leer cómodo en el celular.
 // El Módulo 1 trae la lectura completa; los demás muestran una introducción
@@ -32,6 +47,9 @@ export default function Lectura({ moduloId, onVolver, onLeida }) {
           {lectura.subtitulo && (
             <p className="mt-1 text-lg italic text-ocre">{lectura.subtitulo}</p>
           )}
+          {lectura.meta && (
+            <p className="mt-2 text-xs font-medium text-tierra/50">{lectura.meta}</p>
+          )}
         </header>
 
         {/* Intro */}
@@ -52,6 +70,25 @@ export default function Lectura({ moduloId, onVolver, onLeida }) {
                   {p}
                 </p>
               ))}
+
+              {/* Viñetas, si la sección las tiene */}
+              {sec.bullets && (
+                <ul className="my-4 flex flex-col gap-2">
+                  {sec.bullets.map((b, k) => (
+                    <li key={k} className="flex gap-2 leading-relaxed text-tierra/90">
+                      <span className="mt-1 text-musgo">●</span>
+                      <span>{resaltarLead(b)}</span>
+                    </li>
+                  ))}
+                </ul>
+              )}
+
+              {/* Cita destacada, si la sección la tiene */}
+              {sec.cita && (
+                <blockquote className="my-4 border-l-4 border-ocre bg-ocre/5 py-3 pl-4 pr-3 text-lg italic text-tierra/85">
+                  “{sec.cita}”
+                </blockquote>
+              )}
 
               {/* Lista de principios, si la sección los tiene */}
               {sec.principios && (

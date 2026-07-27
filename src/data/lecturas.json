@@ -1,89 +1,382 @@
 {
-  "m1": {
-    "completa": true,
-    "titulo": "Unidad y origen del pueblo Kartama",
-    "subtitulo": "Una lectura para reconocernos en lo que somos",
-    "intro": "Esta lectura te acompaña en el primer módulo del curso. Está basada en el Dai Jarabürú (pp. 2 y 10) y se lee en unos 10 a 15 minutos. Al final encontrarás unas preguntas para reflexionar.",
-    "secciones": [
-      {
-        "titulo": "1. ¿Quiénes somos? — La composición del pueblo",
-        "parrafos": [
-          "Somos un pueblo de varios pueblos. No venimos de un solo origen, sino de la mezcla de muchos pueblos hermanos: Anserma —la raíz mayor—, Quimbaya, Umbra, Eberá, Panche, Thamí y Nutabe, que con el tiempo se unieron a los primeros Zopia, Karamanta y Kartama. Decir “Ẽbẽra Kartama” no nombra a un solo pueblo: nombra a todos los que un día se juntaron y aprendieron a caminar como uno solo.",
-          "La unión nació también del dolor. El Dai Jarabürú dice que esa unión fue “voluntaria e involuntaria”. No toda fue elegida: una parte fue forzada por la colonia, cuando los primeros pueblos fueron agrupados como esclavos en las minas de oro de Marmato. Sobre esa unión forzada se fueron sumando, con el tiempo, los demás. Nuestra unidad de hoy nace tanto del cuidado como del sufrimiento, y por eso es tan valiosa.",
-          "Marmato, el lugar donde nos juntamos. En lengua propia, Marmato significa “Río de las rocas”, y el territorio Moragá se entiende como “el lugar sagrado entre la montaña y el río”. Esa relación entre montaña, río y oro no es solo geografía: es un lazo espiritual. La práctica agrominera que se desarrolla hoy en el resguardo es expresión viva de ese lazo ancestral."
-        ]
-      },
-      {
-        "titulo": "2. Los principios que nos sostienen",
-        "parrafos": [
-          "Antes de los cinco principios organizativos (Unidad, Territorio, Cultura, Autonomía y Espiritualidad), el Dai Jarabürú nos recuerda algo más profundo: hay cinco principios para caminar en la existencia. Son la base sobre la que todo lo demás se sostiene.",
-          "El fundamento espiritual. Antes que cualquier estructura, hay un fundamento espiritual: Nũkũrikumá rige todo lo existente; Sisaraka (Karagabí) es el pensamiento creador; Michua (Dana Iũja) es el primer vientre y Madre Tierra. De ahí sale el mandato más importante: pensar y actuar desde el respeto a la vida, al territorio y a los seres que lo habitan.",
-          "Los mayores encomiendan que sostengamos cinco principios:"
-        ],
-        "principios": [
-          {
-            "titulo": "Ser valiente y sabio",
-            "embera": "Jura, Kuita nureadayu",
-            "texto": "No basta con tener miedo o no tenerlo; se trata de saber cuándo actuar y cuándo escuchar. La valentía sin sabiduría se vuelve violencia; la sabiduría sin valentía se vuelve silencio."
-          },
-          {
-            "titulo": "Ser respetuoso",
-            "embera": "Kirakipa nureadayu",
-            "texto": "No solo hacia los mayores: hacia el territorio, los seres que lo habitan y las personas con las que convivimos. Es la base del gobierno propio."
-          },
-          {
-            "titulo": "Hablar con sabiduría",
-            "embera": "Kawabedeaba",
-            "texto": "Nũkũrikumá creó todo por medio de la palabra. La palabra crea. Por eso conviene pensar antes de hablar, decir lo que aporta y callar cuando hace falta."
-          },
-          {
-            "titulo": "Tener buen pensamiento",
-            "embera": "Kurisiabiia nureadayu",
-            "texto": "El pensamiento es la fuente de la palabra y de la acción. Si el pensamiento es claro, la decisión también lo es."
-          },
-          {
-            "titulo": "Tener buen corazón",
-            "embera": "sôbiia nureadayu",
-            "texto": "El corazón es el centro del ser comunitario: no guardar rencor, no actuar desde la envidia, no traicionar la confianza. Sostiene la unidad cuando las diferencias aparecen."
-          }
-        ],
-        "cierre": "Cómo se tejen con los cinco principios organizativos. Estos cinco principios no son cinco cosas separadas: son partes de un mismo modo de estar en el mundo, y se tejen con los principios organizativos. Una manera de leerlos: con buen corazón y respeto, somos Unidad (Jõmãũra); con sabiduría, cuidamos el Territorio (Daidrúa); con palabra sabia, transmitimos la Cultura (Nãbẽrãra kũrĩsía); con valentía y sabiduría, ejercemos la Autonomía (Mũkũrĩsía Judaubemêa); con buen pensamiento, sostenemos la Espiritualidad (Daijauri)."
-      }
-    ],
-    "reflexion": [
-      "De los cinco principios para caminar en la existencia, ¿cuál sientes que ya practicas con fuerza en tu vida y en tu rol como líder?",
-      "¿Cuál te cuesta más sostener, y por qué?",
-      "¿De qué manera estos principios pueden orientar las decisiones que toma el cabildo en su día a día?"
-    ],
-    "referencias": [
-      "Resguardo Indígena Embera Chamí de Cartama. (2022). Dai Jarabürú. Nuestros mandatos. Estatutos organizativos. Asamblea General.",
-      "Resguardo Indígena Embera Chamí de Cartama. (2024). Ẽbẽra Kạrtama Puru. Dai Kĩrĩsía. Plan de vida 2024. CRIDEC–ACICAL–FINDETER.",
-      "Aguirre, J. J. (2024). Nũkũrikumá. El pensamiento de los Ansermas (Tesis). Universidad de Caldas.",
-      "Arredondo Molina, C. A., Muñoz, D. F., Aguirre García, J. J., Gañan Velásquez, N. J., y Velásquez, S. E. (2025). Caracterización Minera con Enfoque Diferencial Cartama. Resguardo Indígena Cartama."
+ "m1": {
+  "completa": true,
+  "titulo": "Unidad y origen del pueblo Kartama",
+  "subtitulo": "Una lectura para reconocernos en lo que somos",
+  "intro": "Esta lectura te acompaña en el primer módulo del curso. Está basada en el Dai Jarabürú (pp. 2 y 10) y se lee en unos 10 a 15 minutos. Al final encontrarás unas preguntas para reflexionar.",
+  "secciones": [
+   {
+    "titulo": "1. ¿Quiénes somos? — La composición del pueblo",
+    "parrafos": [
+     "Somos un pueblo de varios pueblos. No venimos de un solo origen, sino de la mezcla de muchos pueblos hermanos: Anserma —la raíz mayor—, Quimbaya, Umbra, Eberá, Panche, Thamí y Nutabe, que con el tiempo se unieron a los primeros Zopia, Karamanta y Kartama. Decir “Ẽbẽra Kartama” no nombra a un solo pueblo: nombra a todos los que un día se juntaron y aprendieron a caminar como uno solo.",
+     "La unión nació también del dolor. El Dai Jarabürú dice que esa unión fue “voluntaria e involuntaria”. No toda fue elegida: una parte fue forzada por la colonia, cuando los primeros pueblos fueron agrupados como esclavos en las minas de oro de Marmato. Sobre esa unión forzada se fueron sumando, con el tiempo, los demás. Nuestra unidad de hoy nace tanto del cuidado como del sufrimiento, y por eso es tan valiosa.",
+     "Marmato, el lugar donde nos juntamos. En lengua propia, Marmato significa “Río de las rocas”, y el territorio Moragá se entiende como “el lugar sagrado entre la montaña y el río”. Esa relación entre montaña, río y oro no es solo geografía: es un lazo espiritual. La práctica agrominera que se desarrolla hoy en el resguardo es expresión viva de ese lazo ancestral."
     ]
-  },
-  "m2": {
-    "completa": false,
-    "titulo": "Territorio y sitios sagrados",
-    "subtitulo": "Daidrúa — el lugar donde la tierra se vuelve memoria",
-    "intro": "El territorio Kartama se organiza en tres zonas —Arkía (Norte), Moragá (Centro) y Amaspache (Sur)— y en 22 comunidades. Cada zona guarda un rostro del territorio: lo ceremonial, lo minero y los nacimientos de agua. La lectura completa de este módulo estará disponible pronto; por ahora puedes poner a prueba lo que sabes con el quiz, el crucigrama y la galería."
-  },
-  "m3": {
-    "completa": false,
-    "titulo": "Cultura",
-    "subtitulo": "Nãbẽrãra kũrĩsía — los siete hilos que nos tejen",
-    "intro": "La cultura Kartama se teje con siete hilos: la lengua propia, el arte (Kipara, Tatuio, mochila), la música (la flauta y el tambor de Tunarpamá), la danza, los saberes ancestrales, la educación y los juegos tradicionales. La lectura completa estará disponible pronto; mientras tanto, explora el quiz, el crucigrama de los siete hilos y la galería."
-  },
-  "m4": {
-    "completa": false,
-    "titulo": "Autonomía",
-    "subtitulo": "Mũkũrĩsía Judaubemêa — el árbol del gobierno propio",
-    "intro": "El gobierno propio se entiende como un árbol (Daibakuru): la comunidad es la raíz y la máxima autoridad, la Asamblea General (Jõmãmebẽra) es donde se decide, y de allí crecen las autoridades, la Guardia Indígena y la justicia propia. La lectura completa estará disponible pronto; por ahora, pon a prueba lo aprendido con el quiz, el crucigrama y la galería."
-  },
-  "m5": {
-    "completa": false,
-    "titulo": "Espiritualidad",
-    "subtitulo": "Daijauri — la medicina y el pensamiento que sostienen la vida",
-    "intro": "La espiritualidad reúne a los sabedores (el Jaibaná, el Tamara), las prácticas de sanación (partería, sobandería, huertos medicinales), las plantas y medicinas propias, y los sitios sagrados como Tatamá, Karamba y el río Arkía. La lectura completa estará disponible pronto; mientras tanto, explora el quiz, el crucigrama y la galería."
-  }
+   },
+   {
+    "titulo": "2. Los principios que nos sostienen",
+    "parrafos": [
+     "Antes de los cinco principios organizativos (Unidad, Territorio, Cultura, Autonomía y Espiritualidad), el Dai Jarabürú nos recuerda algo más profundo: hay cinco principios para caminar en la existencia. Son la base sobre la que todo lo demás se sostiene.",
+     "El fundamento espiritual. Antes que cualquier estructura, hay un fundamento espiritual: Nũkũrikumá rige todo lo existente; Sisaraka (Karagabí) es el pensamiento creador; Michua (Dana Iũja) es el primer vientre y Madre Tierra. De ahí sale el mandato más importante: pensar y actuar desde el respeto a la vida, al territorio y a los seres que lo habitan.",
+     "Los mayores encomiendan que sostengamos cinco principios:"
+    ],
+    "principios": [
+     {
+      "titulo": "Ser valiente y sabio",
+      "embera": "Jura, Kuita nureadayu",
+      "texto": "No basta con tener miedo o no tenerlo; se trata de saber cuándo actuar y cuándo escuchar. La valentía sin sabiduría se vuelve violencia; la sabiduría sin valentía se vuelve silencio."
+     },
+     {
+      "titulo": "Ser respetuoso",
+      "embera": "Kirakipa nureadayu",
+      "texto": "No solo hacia los mayores: hacia el territorio, los seres que lo habitan y las personas con las que convivimos. Es la base del gobierno propio."
+     },
+     {
+      "titulo": "Hablar con sabiduría",
+      "embera": "Kawabedeaba",
+      "texto": "Nũkũrikumá creó todo por medio de la palabra. La palabra crea. Por eso conviene pensar antes de hablar, decir lo que aporta y callar cuando hace falta."
+     },
+     {
+      "titulo": "Tener buen pensamiento",
+      "embera": "Kurisiabiia nureadayu",
+      "texto": "El pensamiento es la fuente de la palabra y de la acción. Si el pensamiento es claro, la decisión también lo es."
+     },
+     {
+      "titulo": "Tener buen corazón",
+      "embera": "sôbiia nureadayu",
+      "texto": "El corazón es el centro del ser comunitario: no guardar rencor, no actuar desde la envidia, no traicionar la confianza. Sostiene la unidad cuando las diferencias aparecen."
+     }
+    ],
+    "cierre": "Cómo se tejen con los cinco principios organizativos. Estos cinco principios no son cinco cosas separadas: son partes de un mismo modo de estar en el mundo, y se tejen con los principios organizativos. Una manera de leerlos: con buen corazón y respeto, somos Unidad (Jõmãũra); con sabiduría, cuidamos el Territorio (Daidrúa); con palabra sabia, transmitimos la Cultura (Nãbẽrãra kũrĩsía); con valentía y sabiduría, ejercemos la Autonomía (Mũkũrĩsía Judaubemêa); con buen pensamiento, sostenemos la Espiritualidad (Daijauri)."
+   }
+  ],
+  "reflexion": [
+   "De los cinco principios para caminar en la existencia, ¿cuál sientes que ya practicas con fuerza en tu vida y en tu rol como líder?",
+   "¿Cuál te cuesta más sostener, y por qué?",
+   "¿De qué manera estos principios pueden orientar las decisiones que toma el cabildo en su día a día?"
+  ],
+  "referencias": [
+   "Resguardo Indígena Embera Chamí de Cartama. (2022). Dai Jarabürú. Nuestros mandatos. Estatutos organizativos. Asamblea General.",
+   "Resguardo Indígena Embera Chamí de Cartama. (2024). Ẽbẽra Kạrtama Puru. Dai Kĩrĩsía. Plan de vida 2024. CRIDEC–ACICAL–FINDETER.",
+   "Aguirre, J. J. (2024). Nũkũrikumá. El pensamiento de los Ansermas (Tesis). Universidad de Caldas.",
+   "Arredondo Molina, C. A., Muñoz, D. F., Aguirre García, J. J., Gañan Velásquez, N. J., y Velásquez, S. E. (2025). Caracterización Minera con Enfoque Diferencial Cartama. Resguardo Indígena Cartama."
+  ]
+ },
+ "m2": {
+  "completa": true,
+  "titulo": "Territorio y sitios sagrados del pueblo Ẽbẽra Kartama",
+  "subtitulo": "Daidrúa: dónde habita lo nuestro",
+  "meta": "Módulo 2 · Curso de Saberes Ancestrales · Lectura basada en el Dai Kĩrĩsía (2024) y la Caracterización Minera Cartama (2025) · 10–12 min",
+  "intro": "Donde camina un Kartama, camina el territorio. Esta lectura recorre nuestro Daidrúa: lo que significa, dónde está, qué lo amenaza y por qué cuidarlo es cuidar la vida misma del pueblo.",
+  "secciones": [
+   {
+    "titulo": "1. El territorio es Daidrúa",
+    "parrafos": [
+     "Para el pueblo Kartama, el territorio no se mide por los límites del municipio. Se mide por la relación viva con la Madre Tierra, los ríos, las montañas y los seres que los habitan. Por eso lo llamamos Daidrúa: nuestro territorio."
+    ],
+    "cita": "Sin territorio y sin acceso a nuestros sitios sagrados, el pueblo Kartama queda arrojado al exterminio."
+   },
+   {
+    "titulo": "2. Un universo de ocho mundos",
+    "parrafos": [
+     "En la palabra de origen, el universo tiene ocho mundos: cuatro superiores y cuatro subterráneos. Allí viven deidades, seres y espíritus que sostienen el balance del territorio. Los Tâmara (médicos tradicionales) dialogan con ellos para mantener la armonía; cuando actuamos sin respeto, ese balance se rompe y enferman el cuerpo y la tierra."
+    ]
+   },
+   {
+    "titulo": "3. Inoinotaimakú: cómo nació nuestro territorio",
+    "parrafos": [
+     "Nuestro territorio no apareció por casualidad. En la palabra de origen, desde lo alto del Tatamá, Nũkũrikumá dio vida a Inoinotaimakú, la madre de los ríos, la primera gran serpiente, y le pidió crear las aguas. Inoinotaimakú rompió su casa en el Tatamá y comenzó a arrastrarse cerro abajo: con su reptar fue abriendo los cañones y los grandes ríos, en especial el Irrá, que hoy llamamos río Cauca. Y mientras avanzaba, iba pariendo otras serpientes que se enterraban y se volvían cordilleras, cerros y montañas vivas. Por eso esas serpientes tienen hoy su casa en el subsuelo y desde allí brindan protección y sabiduría a quien la necesita; por eso el Tâmara le pide consejo a la montaña. La misma serpiente sagrada de la Laguna de Contento, en Amaspache, es hija de Inoinotaimakú."
+    ],
+    "cita": "El territorio no es un escenario: es el cuerpo vivo de la primera serpiente."
+   },
+   {
+    "titulo": "4. Tres zonas, veintidós comunidades",
+    "parrafos": [
+     "Aunque nuestro territorio ancestral abarca buena parte del cauce medio del río Cauca, hoy habitamos 22 comunidades en tres zonas, en Marmato y Supía (Caldas). La zona Arkía (Norte) es territorio ceremonial, “donde se enterraba a los caciques”. La zona Moragá (Centro) está marcada por la minería, pero guarda petroglifos y memoria. La zona Amaspache (Sur) tiene nacimientos de agua, suelos fértiles y el cerro Damadé."
+    ]
+   },
+   {
+    "titulo": "5. Nuestros sitios sagrados",
+    "parrafos": [
+     "La Caracterización Minera de 2025 reunió por primera vez los sitios sagrados del territorio. Algunos de los más nombrados:",
+     "Y más allá del resguardo actual: el Tatamá (Apía), el Karambá–Batero (Quinchía), Tabuchía (Nevado del Ruiz), Andika (Belén de Umbría), Saamogá y Sopingá (Riosucio), y decenas de petroglifos en la región."
+    ],
+    "bullets": [
+     "Arkía: río Arquía, Antumía (Cerro de la Cruz), Mediacaral, Viringo y Piedra Labrada.",
+     "Moragá: Kurazape, Marmato (El Burro), Moragá, río Irrá (Cauca) y los petroglifos de Planchao y La Ermita.",
+     "Amaspache: Laguna de Contento, cerro Damadé, Kimaná, Kaormá y Kurumbí."
+    ]
+   },
+   {
+    "titulo": "6. La tierra: una historia de despojo y reivindicación",
+    "parrafos": [
+     "Conocer esta historia es entender por qué hoy luchamos por cada hectárea. En 1627 se constituye el Resguardo Colonial de Supía la Alta y los indios Arquía; en 1874 se unifica en el Gran Resguardo de Supía; en 1878, la entrega masiva de escrituras a las compañías mineras inglesas abre el despojo más profundo. En 1991 surge el primer intento de gobierno propio en San Juan; en 2012 llega el reconocimiento como Parcialidad Indígena; y en 2025, la constitución como Resguardo."
+    ]
+   },
+   {
+    "titulo": "7. Las amenazas de hoy",
+    "parrafos": [
+     "El despojo cambió de forma, pero continúa. La multinacional Aris Mining tiene títulos sobre gran parte del territorio ancestral, y la Laguna de Contento es hoy propiedad privada. Defender los sitios sagrados es defender la vida del pueblo."
+    ]
+   },
+   {
+    "titulo": "8. La huerta: territorio chico y soberanía",
+    "parrafos": [
+     "El territorio no se cuida solo en lo grande. También en la huerta del patio, en la semilla que se guarda, en la planta medicinal junto a la casa. Nuestros alimentos base, maíz, yuca y frijol, han sostenido al pueblo por generaciones; la ruda, la caléndula, la hierbabuena y el saúco son la primera medicina. Sembrar es soberanía: mientras tengamos semillas propias, no dependemos del mercado, sino de la Madre Tierra y de nuestras manos."
+    ]
+   },
+   {
+    "titulo": "9. Nuestra proyección: la agrominería",
+    "parrafos": [
+     "Frente a la megaminería que arrasa, reivindicamos una identidad propia: la agrominería. Alternar la minería artesanal con la agricultura, en armonía con los ciclos del río, sin químicos y respetando los sitios sagrados. Es nuestra manera de habitar el territorio sin destruirlo."
+    ]
+   }
+  ],
+  "reflexion": [
+   "¿Cuál sitio sagrado de tu zona sientes más cercano? ¿Lo conoces, lo has visitado?",
+   "¿Qué huertas o cultivos sostienen hoy a tu familia y a tu comunidad?",
+   "¿Qué amenazas concretas ves en tu zona sobre la tenencia de la tierra?",
+   "Como líder, ¿qué puedes hacer en tu rol para que el territorio se transmita a las nuevas generaciones?"
+  ],
+  "referencias": [
+   "Arredondo Molina, C. A., Muñoz, D. F., Aguirre García, J. J., Gañan Velásquez, N. J., y Velásquez, S. E. (2025). Caracterización Minera con Enfoque Diferencial Cartama. Resguardo Indígena Cartama.",
+   "Resguardo Indígena Embera Chamí de Cartama. (2024). Ẽbẽra Kạrtama Puru. Dai Kĩrĩsía. Plan de vida 2024.",
+   "Aguirre, J. J. (2024). Nũkũrikumá. El pensamiento de los Ansermas. Universidad de Caldas."
+  ]
+ },
+ "m3": {
+  "completa": true,
+  "titulo": "La cultura del pueblo Ẽbẽra Kartama",
+  "subtitulo": "Nãberãra kũrĩsía: la cultura es un tejido vivo",
+  "meta": "Módulo 3 · Curso de Saberes Ancestrales · Lectura basada en Aguirre (2024), el Dai Jarabürú (2022) y el Dai Kĩrĩsía (2024) · 10–12 min",
+  "intro": "Cuando un Kartama habla su lengua, pinta su piel con jagua o le cuenta a un niño una historia de origen, está tejiendo cultura. Esta lectura recorre los hilos de ese tejido: la lengua, la palabra hablada, las grafías, el calendario, la danza, el canto y la medicina. Recuperarlos es, según el principio Cultura, recuperar y preservar lo que nos hace pueblo.",
+  "secciones": [
+   {
+    "titulo": "1. La cultura es un tejido: el Tatũĩõ",
+    "parrafos": [
+     "Para los mayores, la vida entera es un tejido que enlaza hilos, palabras y saberes. Lo nombran con una imagen propia: el Tatũĩõ, un manojo de palitos envueltos, con pajaritos y mariposas, palos con nudos que guardan sonidos altos y bajos. Cada nudo es un mensaje; incluso el bastón de mando del cacique es un Tatũĩõ, grabado a mano con alacranes y culebras. Es la misma idea del Kipu de los Incas, que llevaban los mensajeros. Así entendemos la cultura: lengua, oralidad, grafías, danza y rituales no van por separado, confluyen en un solo tejido."
+    ],
+    "cita": "Para los pueblos originarios, la vida misma es un tejido que enlaza hilos, palabras y saberes."
+   },
+   {
+    "titulo": "2. La lengua propia: la casa de los ancestros",
+    "parrafos": [
+     "La raíz lingüística del pueblo es la lengua Umbra, de estructura Karibe, hoy en proceso de revitalización. La lengua no es solo una forma de hablar: es la casa donde viven los antepasados, y por eso decimos que recuperar la lengua es recuperar el territorio. Cada palabra propia que vuelve a circular, cada nombre que volvemos a usar —como Kartama Ibamá o Daidrúa— devuelve un pedazo de mundo que la colonización quiso silenciar."
+    ]
+   },
+   {
+    "titulo": "3. La tradición oral: la palabra que pasa de mayores a niños",
+    "parrafos": [
+     "La tradición oral es el eje de nuestra cultura. No se aprende en un libro: se aprende en la palabra del mayor, alrededor del fuego, en la cocina, en la huerta. Las historias de origen —Nũkũrikumá, Inoinotaimakú, los ocho mundos— se transmiten de boca en boca, y al contarlas no solo se informa: se enseña a vivir. Por eso, cuando un sabedor habla, la comunidad escucha como quien recibe una herencia."
+    ]
+   },
+   {
+    "titulo": "4. El Kipara: la grafía espiral que es medicina",
+    "parrafos": [
+     "El Kipara es la pintura ritual del cuerpo, hecha con tinta de jagua (negro-azulada) y achiote o Kachi (ocre). No es adorno ni estética: la tinta de la jagua es una medicina, y sus trazos en espiral son un puente para comunicarse con el mundo de los espíritus. Cada grafía no representa una letra, sino un concepto entero ligado a una historia de origen. Es una práctica que aún se conserva en Cartama y en los pueblos hermanos de Supía, y en ella se dibuja, entre otras, a Inoinotaimakú, la madre de los ríos."
+    ]
+   },
+   {
+    "titulo": "5. Los petroglifos: la escritura en la piedra",
+    "parrafos": [
+     "Las mismas narrativas que viven en el Kipara quedaron grabadas en la roca. Los petroglifos —como los de Sâmoga, “la ciudad del tiempo”, o los de Planchao y La Ermita— son la escritura propia en piedra y arcilla: allí los mayores dejaron tallado su pensamiento. Leerlos hoy es volver a conversar con quienes nos antecedieron."
+    ]
+   },
+   {
+    "titulo": "6. El calendario propio: el tiempo se cuenta con la luna",
+    "parrafos": [
+     "El tiempo no se mide por el calendario de la ciudad, sino por la luna. La cuenta propia reconoce el día, la semana, el mes lunar de 28 días —ligado a los ciclos fértiles de la mujer— y el año de unos trece meses lunares. Ese calendario marca el momento justo para la siembra y los cortes, para las cosechas y las ceremonias. Vivir según la luna es vivir en acuerdo con la Madre Tierra."
+    ]
+   },
+   {
+    "titulo": "7. Arte, música, danza y juego propios",
+    "parrafos": [
+     "El principio Cultura abarca muchos saberes que se sostienen unos a otros: la cerámica y la cestería, heredadas del saber de Dabeiba; la danza y la música que acompañan las fiestas y los rituales; los juegos tradicionales que enseñan jugando; y el arte propio de las grafías y las mochilas con narrativa. Todos son hilos del mismo tejido: el origen de la vida hecho cultura."
+    ]
+   },
+   {
+    "titulo": "8. Kartama Ibamá: el canto del espíritu de las montañas",
+    "parrafos": [
+     "Hay un nombre que reúne todo esto: Kartama Ibamá, el canto del espíritu de las montañas, acompañado del vuelo de las aves y del gallinazo rey. Es el llamado de los antepasados para caminar en este tiempo, y al mismo tiempo una manera de reivindicar el nombre propio y la identidad frente a quienes quisieron borrarla."
+    ],
+    "cita": "Kartama Ibamá es el canto del espíritu de las montañas, el llamado de los antepasados para caminar en este tiempo."
+   },
+   {
+    "titulo": "9. La medicina del Tâmara y los sabedores",
+    "parrafos": [
+     "El cuidado de la vida está en manos del Tâmara, el médico tradicional, y del Consejo de Sabedores. Con el abuelo tabaco, la madre coca y el sueño del Ibaka se conecta con el pensamiento de todo lo existente, y a través del Kipara y los rituales de armonización mantiene el equilibrio entre la comunidad, el territorio y los espíritus. Partería, sobandería y plantas medicinales completan una medicina que es, también, cultura."
+    ]
+   }
+  ],
+  "reflexion": [
+   "¿Qué palabras o nombres en lengua propia conoces o usas todavía en tu comunidad?",
+   "¿Quién te enseñó las historias de origen que sabes? ¿A quién se las has contado tú?",
+   "¿Qué saber de la cultura (danza, música, Kipara, medicina, calendario) sientes más en riesgo de perderse?",
+   "Como líder, ¿qué puedes hacer en tu rol para que estos saberes lleguen a los niños y jóvenes?"
+  ],
+  "referencias": [
+   "Aguirre, J. J. (2024). Nũkũrikumá. El pensamiento de los Ansermas. Universidad de Caldas.",
+   "Resguardo Indígena Embera Chamí de Cartama. (2024). Ẽbẽra Kạrtama Puru. Dai Kĩrĩsía. Plan de vida 2024.",
+   "Pueblo Embera Kartama. (2022). Dai Jarabürú. Estatutos del gobierno propio."
+  ]
+ },
+ "m4": {
+  "completa": true,
+  "titulo": "El gobierno propio del pueblo Ẽbẽra Kartama",
+  "subtitulo": "Mükurisia Judaubemêa: mandar obedeciendo a la comunidad",
+  "meta": "Módulo 4 · Curso de Saberes Ancestrales · Lectura basada en el Dai Jarabürú (2022) y el Dai Kĩrĩsía (2024) · 10–12 min",
+  "intro": "Ser autónomos es gobernarnos por nosotros mismos, con nuestras propias reglas y autoridades. Esta lectura recorre nuestro gobierno propio: cómo la comunidad es la raíz de todo, quiénes son nuestras autoridades y para qué sirven la guardia y la justicia propias.",
+  "secciones": [
+   {
+    "titulo": "1. ¿Qué es la autonomía?",
+    "parrafos": [
+     "La autonomía, en lengua propia Mükurisia Judaubemêa, es el derecho y la fuerza de gobernarnos según nuestros usos y costumbres, sin depender de lo de afuera. Buscamos una autonomía consolidada en lo económico, político, social y territorial, y la soberanía alimentaria, para suplir las necesidades de la comunidad (Dai Jarabürú, 2022)."
+    ]
+   },
+   {
+    "titulo": "2. El Dai Bakuru: nuestro árbol de gobierno",
+    "parrafos": [
+     "Los mayores dibujan el gobierno propio como un árbol, el Dai Bakuru. En la raíz está la comunidad; en el tronco y las ramas, las autoridades. El árbol se sostiene desde abajo: por eso las autoridades no mandan por encima de la comunidad, sino que cogobiernan en su nombre. Todo lo que la comunidad decide es un mandato."
+    ],
+    "cita": "La máxima autoridad es la comunidad; las autoridades solo administran en su nombre."
+   },
+   {
+    "titulo": "3. La raíz: la comunidad y sus asambleas",
+    "parrafos": [
+     "La comunidad manda a través de sus asambleas:"
+    ],
+    "bullets": [
+     "Jomameberá (Asamblea General): el máximo escenario de decisión. Avala los mandatos y el plan de vida, elige al Nâbera Kartama y reúne a las 22 comunidades. Es abierta: hombres, mujeres y niños, todos con voz y voto.",
+     "Asamblea Zonal: reúne las comunidades de cada zona y elige a los tres Nâbera de zona.",
+     "Asamblea comunitaria: toma decisiones de gobierno propio y control social, y elige a los Êbera Boro."
+    ]
+   },
+   {
+    "titulo": "4. Las autoridades (Êbera Jaramía)",
+    "parrafos": [
+     "La comunidad elige a sus autoridades tradicionales, que gobiernan por dos años, con opción de reelección si la asamblea lo decide:"
+    ],
+    "bullets": [
+     "Nâbera Kartama: representa a todo el pueblo ante las instituciones.",
+     "Nâbera de zona (Amaspache, Moragá, Arkía): representan cada una de las tres zonas.",
+     "Êbera Boro: autoridades y líderes de cada una de las 22 comunidades.",
+     "Êbera shiobari: el mando mayor de la Guardia Indígena.",
+     "Nâberara: los exgobernadores, que aconsejan desde su experiencia.",
+     "Tâmará: el sabedor que aconseja al gobierno desde la medicina y la espiritualidad."
+    ]
+   },
+   {
+    "titulo": "5. La Guardia Indígena (Naberara Shiobari)",
+    "parrafos": [
+     "Nuestra guardia cuida el territorio, la vida y la armonía de la comunidad. La conforman 22 guardias adultos y 28 niños del semillero “Polinizadores”. Se organiza por áreas: primer mando, disciplina, control territorial y espiritualidad. No solo da seguridad: también siembra identidad y transmite el saber a las nuevas generaciones."
+    ]
+   },
+   {
+    "titulo": "6. La Justicia propia",
+    "parrafos": [
+     "Cuando alguien rompe la armonía, la justicia propia responde primero con la palabra, no con la cárcel. Un consejo de justicia (gobernador general, gobernadores zonales, un mando de guardia y un sabedor) busca la resocialización: que la persona vuelva a caminar bien con su comunidad. Es una justicia que sana, no solo que castiga."
+    ]
+   },
+   {
+    "titulo": "7. Los cinco procesos de la Autonomía",
+    "parrafos": [
+     "El principio de Autonomía se trabaja en cinco procesos: la organización y el gobierno propio, el relacionamiento institucional, los proyectos, la justicia propia y la guardia indígena (Dai Jarabürú, 2022)."
+    ]
+   }
+  ],
+  "reflexion": [
+   "¿En cuál de las asambleas (general, zonal o comunitaria) has participado? ¿Cómo fue?",
+   "¿Qué autoridad de tu comunidad conoces mejor y qué hace por el pueblo?",
+   "¿Cómo crees que la justicia propia (la palabra, la resocialización) se diferencia de la justicia ordinaria?",
+   "Como líder, ¿qué puedes hacer para que el gobierno propio se fortalezca y se transmita a los jóvenes?"
+  ],
+  "referencias": [
+   "Pueblo Embera Kartama. (2022). Dai Jarabürú. Estatutos del gobierno propio. Resguardo Indígena Embera Chamí de Cartama.",
+   "Resguardo Indígena Embera Chamí de Cartama. (2024). Ẽbẽra Kạrtama Puru. Dai Kĩrĩsía. Plan de vida 2024."
+  ]
+ },
+ "m5": {
+  "completa": true,
+  "titulo": "La espiritualidad del pueblo Ẽbẽra Kartama",
+  "subtitulo": "Daijauri: el balance espiritual y la salud de la comunidad",
+  "meta": "Módulo 5 · Curso de Saberes Ancestrales · Lectura basada en el Dai Jarabürú (2022), el Dai Kĩrĩsía (2024) y el Nũkũrikumá (Aguirre, 2024) · 10–12 min",
+  "intro": "La espiritualidad no es un momento aparte de la vida: es el modo en que cuidamos la salud de la gente y del territorio. Esta lectura recorre el principio Daijauri: quiénes son nuestros sabedores, de dónde nos viene el don de sanar, qué medicinas y prácticas siguen vivas, y cuáles son nuestros sitios sagrados.",
+  "secciones": [
+   {
+    "titulo": "1. ¿Qué es la espiritualidad?",
+    "parrafos": [
+     "La espiritualidad, en lengua propia Daijauri, es el principio que nos manda recuperar y mantener el balance espiritual y velar por la salud de la comunidad (Dai Jarabürú, 2022). Es también el respeto y la conexión con lo sagrado: nuestros ancestros y la naturaleza hacen parte de nuestra existencia (Dai Kĩrĩsía, 2024). Por eso, entre nosotros, la salud y la espiritualidad caminan juntas: sanar a una persona es también sanar su relación con la tierra y con los suyos."
+    ],
+    "cita": "Sanar la palabra y la memoria de la comunidad es aportar a la sanación del territorio."
+   },
+   {
+    "titulo": "2. El Tâmará y el Consejo de Sabedores",
+    "parrafos": [
+     "Los sabedores en medicina tradicional y prácticas espirituales se agrupan en el Consejo de Sabedores. De ese consejo sale el Tâmará, la autoridad que aconseja al gobierno propio desde su saber, cuidando la salud de la gente y del territorio (Dai Jarabürú, 2022). Y hay algo que los mayores recuerdan con orgullo: las mujeres también son Tâmaras, porque pueden ver y hablar con los espíritus."
+    ]
+   },
+   {
+    "titulo": "3. De dónde nos viene el don de sanar",
+    "parrafos": [
+     "La palabra de origen cuenta que Tâmarakunga hizo del barro negro del río Irrá a los Tamarakas: gente de agua que no moría, porque cuando se enfermaban se curaban a sí mismos. Un día los Tamarakas miraron hacia este mundo y se unieron con nuestras mujeres. Por esa mezcla dejaron de ser inmortales, y nosotros aprendimos a ser Tâmaras: aprendimos a sanar (Aguirre, 2024). El don de la medicina no nos llegó de afuera: nos viene del origen."
+    ]
+   },
+   {
+    "titulo": "4. Las medicinas propias",
+    "parrafos": [
+     "Los antepasados nos hablan a través de las medicinas propias: el abuelo tabaco, la madre coca y el sueño del Ibaka, esa medicina que nos conecta con el pensamiento de todo lo que existe (Aguirre, 2024). Los Jaibaná, nuestros médicos tradicionales, hacen su trabajo de sanación con el manejo de los espíritus, por medio del ritual del canto de Jai."
+    ]
+   },
+   {
+    "titulo": "5. Prácticas de sanación que siguen vivas",
+    "parrafos": [],
+    "bullets": [
+     "La partería: acompaña los nacimientos con cuidado físico, emocional y espiritual. Hoy quedan apenas cinco parteras en la comunidad, y revivir su saber es un acto de resistencia.",
+     "La sobandería: sana con las manos y con las plantas: los sobanderos alivian dolencias y recomiendan pomadas y baños a base de plantas medicinales.",
+     "La medicina ancestral: no trata solo el cuerpo. Atiende también lo emocional, lo social y lo espiritual, para devolver el equilibrio a la persona y a su entorno."
+    ]
+   },
+   {
+    "titulo": "6. Los huertos medicinales",
+    "parrafos": [
+     "En las huertas comunitarias, lideradas sobre todo por las mujeres, se siembran las plantas que curan (Dai Kĩrĩsía, 2024):"
+    ],
+    "bullets": [
+     "Ruda: alivia dolores y malestares digestivos.",
+     "Caléndula: indicada para la piel y las heridas.",
+     "Hierbabuena: ayuda con las molestias del estómago y los dolores de cabeza.",
+     "Saúco: apoya en los problemas respiratorios."
+    ]
+   },
+   {
+    "titulo": "7. Nuestros sitios sagrados",
+    "parrafos": [
+     "Lo sagrado tiene morada en el territorio. Estos lugares guardan la memoria de los ancestros:"
+    ],
+    "bullets": [
+     "Tatamá: el lugar de origen, donde reside Nukurikuma. Conecta este mundo con los mundos de arriba.",
+     "Karambá: la morada de Xixaraka, el primer Jaibaná. Allí se honra a los ancestros.",
+     "Irrá: el gran río que divide los mundos, guardado por Kananúo.",
+     "Arkía: el Río de los Espíritus, nuestro centro ceremonial. Su contaminación nos duele, porque deshonra lo sagrado."
+    ]
+   },
+   {
+    "titulo": "8. Salud propia y salud intercultural",
+    "parrafos": [
+     "La medicina propia dialoga hoy con la medicina occidental: frente a la depresión, la ansiedad o el estrés, las dos se complementan para cuidar a la gente sin borrar lo nuestro (Dai Kĩrĩsía, 2024). El principio de Espiritualidad se trabaja en seis procesos: el Consejo de sabedores, la salud propia, la salud intercultural, los sitios sagrados, el semillero de medicina y los huertos medicinales (Dai Jarabürú, 2022)."
+    ]
+   }
+  ],
+  "reflexion": [
+   "¿Qué prácticas de sanación propias ha vivido o conoce en su familia: la partería, la sobandería, las plantas?",
+   "¿Qué plantas medicinales se usan en su casa y para qué sirven?",
+   "¿Ha visitado alguno de nuestros sitios sagrados? ¿Qué podemos hacer para protegerlos?",
+   "Como líder, ¿qué puede hacer para que el Consejo de Sabedores y la medicina propia se fortalezcan y lleguen a los jóvenes?"
+  ],
+  "referencias": [
+   "Aguirre, J. (2024). Nũkũrikumá. El pensamiento de los Ansermas. Universidad de Caldas.",
+   "Pueblo Embera Kartama. (2022). Dai Jarabürú. Estatutos del gobierno propio. Resguardo Indígena Embera Chamí de Cartama.",
+   "Resguardo Indígena Embera Chamí de Cartama. (2024). Ẽbẽra Kạrtama Puru. Dai Kĩrĩsía. Plan de vida 2024."
+  ]
+ }
 }
