@@ -1,0 +1,18 @@
+[
+  {
+    "id": "pueblo",
+    "titulo": "Himno del Pueblo Ẽbẽra de Caldas",
+    "creditos": "Versión “Hijos del Sol”",
+    "descripcion": "El canto que nos reconoce como pueblo Ẽbẽra en el territorio de Caldas.",
+    "video": "./media/himnos/himno_pueblo.mp4",
+    "poster": "./media/himnos/poster_pueblo.jpg"
+  },
+  {
+    "id": "guardia",
+    "titulo": "Himno de la Guardia Indígena",
+    "creditos": "“Guardia, Fuerza” · ft. Andrea Echeverry, Ali Aka Mind, Chane Meza",
+    "descripcion": "El canto de la Guardia que cuida el territorio, la vida y la armonía de la comunidad.",
+    "video": "./media/himnos/himno_guardia.mp4",
+    "poster": "./media/himnos/poster_guardia.jpg"
+  }
+]

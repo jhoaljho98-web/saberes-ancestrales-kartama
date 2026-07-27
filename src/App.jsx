@@ -6,6 +6,7 @@ import Quiz from './pantallas/Quiz.jsx'
 import Crucigrama from './pantallas/Crucigrama.jsx'
 import Sopa from './pantallas/Sopa.jsx'
 import Galeria from './pantallas/Galeria.jsx'
+import Himnos from './pantallas/Himnos.jsx'
 import modulos from './data/modulos.json'
 import galerias from './data/galerias.json'
 import { leerProgreso } from './utils/almacenamiento.js'
@@ -85,6 +86,11 @@ export default function App() {
     )
   }
 
+  // Himnos del pueblo (se abre desde el inicio).
+  if (vista === 'himnos') {
+    return <Himnos onVolver={volverAlInicio} />
+  }
+
   // --- Hub del módulo ---
   if (vista === 'modulo') {
     return (
@@ -103,6 +109,7 @@ export default function App() {
       progreso={progreso}
       onAbrirModulo={abrirModulo}
       onAbrirProceso={() => setVista('proceso')}
+      onAbrirHimnos={() => setVista('himnos')}
     />
   )
 }

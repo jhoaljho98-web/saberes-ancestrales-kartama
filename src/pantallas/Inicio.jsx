@@ -6,7 +6,7 @@ import modulos from '../data/modulos.json'
 // Props:
 // - progreso: objeto con el avance guardado
 // - onAbrirModulo: función que recibe el id del módulo elegido
-export default function Inicio({ progreso, onAbrirModulo, onAbrirProceso }) {
+export default function Inicio({ progreso, onAbrirModulo, onAbrirProceso, onAbrirHimnos }) {
   // Cuenta cuántas de las 4 actividades del módulo están completas.
   function actividadesHechas(id) {
     const m = progreso.modulos?.[id] || {}
@@ -87,11 +87,27 @@ export default function Inicio({ progreso, onAbrirModulo, onAbrirProceso }) {
         })}
       </div>
 
+      {/* Himnos del pueblo */}
+      <button
+        type="button"
+        onClick={onAbrirHimnos}
+        className="mt-4 flex w-full items-center gap-4 rounded-2xl bg-bosque p-5 text-left text-white shadow-md transition active:scale-[0.99]"
+      >
+        <span className="text-3xl">🎵</span>
+        <div className="flex-1">
+          <h2 className="text-xl font-bold">Himnos</h2>
+          <p className="text-sm text-white/85">
+            El himno del pueblo Ẽbẽra y el de la Guardia Indígena.
+          </p>
+        </div>
+        <span className="text-2xl text-white/70">›</span>
+      </button>
+
       {/* Galería general del proceso del curso */}
       <button
         type="button"
         onClick={onAbrirProceso}
-        className="mt-4 flex w-full items-center gap-4 rounded-2xl bg-ocre p-5 text-left text-white shadow-md transition active:scale-[0.99]"
+        className="mt-3 flex w-full items-center gap-4 rounded-2xl bg-ocre p-5 text-left text-white shadow-md transition active:scale-[0.99]"
       >
         <span className="text-3xl">📸</span>
         <div className="flex-1">
