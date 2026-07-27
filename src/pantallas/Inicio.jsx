@@ -14,6 +14,7 @@ export default function Inicio({ progreso, onAbrirModulo, onAbrirProceso }) {
     if (m.lecturaLeida) n++
     if (m.quiz) n++
     if (m.crucigrama?.resuelto) n++
+    if (m.sopa?.resuelto) n++
     if (m.galeriaVista) n++ // (opcional; la galería no bloquea el progreso)
     return n
   }
@@ -66,7 +67,7 @@ export default function Inicio({ progreso, onAbrirModulo, onAbrirProceso }) {
 
                 {/* Puntos de progreso: 4 actividades */}
                 <div className="mt-2 flex items-center gap-1.5">
-                  {[0, 1, 2, 3].map((i) => (
+                  {[0, 1, 2, 3, 4].map((i) => (
                     <span
                       key={i}
                       className={`h-2.5 w-2.5 rounded-full ${
@@ -75,7 +76,7 @@ export default function Inicio({ progreso, onAbrirModulo, onAbrirProceso }) {
                     />
                   ))}
                   <span className="ml-1 text-xs font-semibold text-tierra/50">
-                    {hechas}/4
+                    {hechas}/5
                   </span>
                 </div>
               </div>

@@ -88,6 +88,20 @@ export function registrarCrucigrama(moduloId, encontradas, total) {
   return datos
 }
 
+// Guarda el avance de una sopa de letras.
+export function registrarSopa(moduloId, encontradas, total) {
+  const datos = leerProgreso()
+  const mod = estadoModulo(datos, moduloId)
+  const previo = mod.sopa?.encontradas || 0
+  mod.sopa = {
+    resuelto: encontradas >= total,
+    encontradas: Math.max(previo, encontradas),
+    total,
+  }
+  guardarProgreso(datos)
+  return datos
+}
+
 // Borra todo el progreso (útil para pruebas o para "empezar de nuevo").
 export function reiniciarProgreso() {
   try {

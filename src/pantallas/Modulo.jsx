@@ -45,6 +45,17 @@ export default function Modulo({ moduloId, progreso, onAbrirActividad, onVolver 
         : null,
     },
     {
+      clave: 'sopa',
+      icono: '🔎',
+      titulo: 'Sopa de letras',
+      descripcion: 'Busca las palabras escondidas en la cuadrícula.',
+      estado: avance.sopa
+        ? avance.sopa.resuelto
+          ? 'Resuelta ✓'
+          : `${avance.sopa.encontradas}/${avance.sopa.total}`
+        : null,
+    },
+    {
       clave: 'galeria',
       icono: '🖼️',
       titulo: 'Galería',

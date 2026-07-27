@@ -4,6 +4,7 @@ import Modulo from './pantallas/Modulo.jsx'
 import Lectura from './pantallas/Lectura.jsx'
 import Quiz from './pantallas/Quiz.jsx'
 import Crucigrama from './pantallas/Crucigrama.jsx'
+import Sopa from './pantallas/Sopa.jsx'
 import Galeria from './pantallas/Galeria.jsx'
 import modulos from './data/modulos.json'
 import galerias from './data/galerias.json'
@@ -57,6 +58,9 @@ export default function App() {
   }
   if (vista === 'crucigrama') {
     return <Crucigrama moduloId={moduloId} onVolver={volverAlModulo} onAvance={refrescar} />
+  }
+  if (vista === 'sopa') {
+    return <Sopa moduloId={moduloId} onVolver={volverAlModulo} onAvance={refrescar} />
   }
   if (vista === 'galeria') {
     const modulo = modulos.find((m) => m.id === moduloId)
