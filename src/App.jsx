@@ -9,6 +9,7 @@ import Galeria from './pantallas/Galeria.jsx'
 import Himnos from './pantallas/Himnos.jsx'
 import Comunidades from './pantallas/Comunidades.jsx'
 import Gobierno from './pantallas/Gobierno.jsx'
+import Historias from './pantallas/Historias.jsx'
 import modulos from './data/modulos.json'
 import galerias from './data/galerias.json'
 import { leerProgreso } from './utils/almacenamiento.js'
@@ -70,6 +71,9 @@ export default function App() {
   }
   if (vista === 'gobierno') {
     return <Gobierno moduloId={moduloId} onVolver={volverAlModulo} />
+  }
+  if (vista === 'historias') {
+    return <Historias moduloId={moduloId} onVolver={volverAlModulo} />
   }
   if (vista === 'galeria') {
     const modulo = modulos.find((m) => m.id === moduloId)

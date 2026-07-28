@@ -1,0 +1,55 @@
+{
+  "intro": "Nuestras historias de origen se cuentan de boca en boca, de los mayores a los niños. Son narrativas sagradas del pueblo Ẽbẽra Kartama. Toca una para leerla.",
+  "historias": [
+    {
+      "id": "tunarpama",
+      "titulo": "Tunarpamá y la flauta de oro",
+      "subtitulo": "El origen de nuestra música",
+      "emoji": "🪈",
+      "color": "#9A6600",
+      "color2": "#C88A17",
+      "parrafos": [
+        "Cuando los españoles llegaron a nuestros territorios, entre 1530 y 1539, el primero en llegar fue Sebastián de Belalcázar, quien entró por la ribera del Río Grande —hoy río Cauca— y bajó hasta el río Cartama; allí marcó y se devolvió. Encontró que los indios de estos territorios conservaban la historia de un ser que recordaban con el nombre de Tunarpamá.",
+        "Un día de tantos se escuchó un estallido en el firmamento. Se formó un círculo azul, y debajo de él descendió un cono de luz color naranja que bajó hasta la cima del cerro Kukuruma, hoy cerro Ingrumá.",
+        "Cuentan que en ese cono de luz bajó un ser de más de dos metros de altura, corpulento, de cabellos blancos que le llegaban casi hasta los talones y piel cobriza, con una manta blanca. Enfundó la mano en su seno y sacó una flauta como de oro, y empezó a tocar unas melodías hermosas. Todos los indios de estos territorios escucharon aquella melodía y subieron hasta el pie del cerro Kukuruma. El ser descendió por las rocas, se reunió con ellos dándoles saludos fraternos y se desplazó con ellos hasta una llanura más allá del hoy pueblo viejo. Dicen que con su flauta hirió la tierra y brotó agua, dando nacimiento a la laguna de Mogán.",
+        "Les dijo que a esa laguna, cada año y cada vez que hubiese grandes cosechas, debían ir a llevar ofrendas para honrar a la Madre Tierra. Desde entonces, cada vez que se reunían los indios de este territorio se armaba una gran fiesta: llevaban tributos de oro, frutas y animales, que lanzaban al agua en balsas de cañas gordas o guaduas.",
+        "Tunarpamá trajo como regalo el maíz y enseñó a cultivarlo y a procesar todos sus derivados —el maíz fue la base alimenticia y medicinal de los pueblos de estos territorios—. Además enseñó a construir los tambores y las flautas, y a hacerlos sonar, dándonos una riqueza musical y cultural.",
+        "Convivió con los indios de estos territorios por mucho tiempo. Dicen que cada mañana subía a una montaña diferente a tocar su flauta, para animar al pueblo a levantarse a trabajar la tierra y a dar gracias al padre sol y a la madre tierra.",
+        "Un día no volvió a tocar su flauta. Los indios subieron a buscarlo a la montaña hundida, donde él habitaba. Les dijo que tenía que regresar, y que debían vivir en hermandad, porque un día llegaría la destrucción, la oscuridad, un ser mitad hombre y mitad bestia que arrasaría con todos los pueblos indígenas."
+      ],
+      "cita": "Con su flauta hirió la tierra y brotó agua, dándole nacimiento a la laguna de Mogán.",
+      "fuente": "Aguirre, J. J. (2024). Nũkũrikumá: El pensamiento de los Ansermas (pp. 251–252). Universidad de Caldas. Relato recogido de la tradición del pueblo (Aricapa, 2023)."
+    },
+    {
+      "id": "inoinotaimaku",
+      "titulo": "Ĩnoĩnotaimakú, la serpiente madre",
+      "subtitulo": "El origen del territorio y los ríos",
+      "emoji": "🐍",
+      "color": "#2C5F2D",
+      "color2": "#3E8E41",
+      "parrafos": [
+        "Antes de que existiera la comunidad, ya existía Nũkũrikumá, el pensamiento. Tiene su casa en lo más alto del Tatamá, y ese es el lugar de nuestro origen. De él nació la orden de crear las aguas.",
+        "Entonces Ĩnoĩnotaimakú, la madre de los ríos, la gran serpiente, rompió su casa en el Tatamá y comenzó a arrastrarse cerro abajo. Con su reptar fue abriendo los cañones y los grandes ríos, en especial el Irrá, que hoy llamamos río Cauca.",
+        "Y mientras avanzaba, iba pariendo otras serpientes que se enterraban y se alzaban como cordilleras, cerros y montañas vivas. Por eso esas serpientes tienen hoy su casa en el subsuelo, y desde allí brindan protección y sabiduría a quien la necesita; por eso el Tâmara le pide consejo a la montaña.",
+        "Así nació nuestro territorio. No es un escenario donde vivimos: es un cuerpo vivo, el cuerpo de la primera serpiente."
+      ],
+      "cita": "El territorio no es un escenario: es el cuerpo vivo de la primera serpiente.",
+      "fuente": "Aguirre, J. J. (2024). Nũkũrikumá: El pensamiento de los Ansermas (pp. 242, 250–251). Universidad de Caldas."
+    },
+    {
+      "id": "tamarakas",
+      "titulo": "Los Tamarakas",
+      "subtitulo": "El origen de la medicina propia",
+      "emoji": "🌿",
+      "color": "#117A65",
+      "color2": "#16A085",
+      "parrafos": [
+        "La palabra de origen cuenta que Tâmarakunga hizo, del barro negro del río Irrá, a los Tamarakas: gente de agua que no moría, porque cuando se enfermaban se curaban a sí mismos.",
+        "Un día, los Tamarakas miraron hacia este mundo y se unieron con nuestras mujeres. Por esa mezcla dejaron de ser inmortales; pero de ella nosotros aprendimos a ser Tâmaras: aprendimos a sanar.",
+        "Por eso, entre nosotros, el don de la medicina no llegó de afuera. Nos viene del origen, del barro del río y de la unión de dos mundos. Sanar a una persona es también sanar su relación con la tierra y con los suyos."
+      ],
+      "cita": "El don de la medicina no nos llegó de afuera: nos viene del origen.",
+      "fuente": "Aguirre, J. J. (2024), citado en el Dai Kĩrĩsía. Plan de vida 2024 del Resguardo Indígena Ẽbẽra Chamí de Cartama."
+    }
+  ]
+}

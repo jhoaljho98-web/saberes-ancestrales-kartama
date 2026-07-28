@@ -38,6 +38,18 @@ export default function Modulo({ moduloId, progreso, onAbrirActividad, onVolver 
           },
         ]
       : []),
+    // Historias de origen exclusivas del Módulo 3 (Cultura): tras la lectura.
+    ...(moduloId === 'm3'
+      ? [
+          {
+            clave: 'historias',
+            icono: '📜',
+            titulo: 'Historias de origen',
+            descripcion: 'Los mitos y leyendas de nuestro pueblo.',
+            estado: null,
+          },
+        ]
+      : []),
     {
       clave: 'quiz',
       icono: '❓',
