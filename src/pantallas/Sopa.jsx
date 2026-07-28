@@ -5,6 +5,16 @@ import Encabezado from '../componentes/Encabezado.jsx'
 import { generarSopa } from '../utils/sopa.js'
 import { registrarSopa } from '../utils/almacenamiento.js'
 
+// Paleta de colores para las palabras encontradas. Cada palabra recibe un color
+// distinto (en orden), para que no se confundan cuando ya hay muchas marcadas.
+// Son tonos medianos-oscuros, todos legibles con texto blanco.
+const PALETA = [
+  '#2C5F2D', '#1F6F8B', '#8E44AD', '#C0392B', '#B9770E', '#16A085',
+  '#2E86C1', '#CB4335', '#6C3483', '#117A65', '#A04000', '#1A5276',
+  '#7D6608', '#943126', '#0E6655', '#5B2C6F',
+]
+const colorPalabra = (indice) => PALETA[indice % PALETA.length]
+
 // PANTALLA DE SOPA DE LETRAS
 // Usa las mismas palabras del crucigrama del módulo, escondidas en 8 direcciones.
 // La persona arrastra el dedo (o el mouse) sobre una línea de letras; si forma
@@ -34,11 +44,18 @@ export default function Sopa({ moduloId, onVolver, onAvance }) {
 
   const clave = (r, c) => r + ',' + c
 
-  // Casillas ocupadas por palabras ya encontradas (para pintarlas fijas).
-  const celdasEncontradas = new Set()
-  encontradas.forEach((e) =>
-    e.celdas.forEach((cd) => celdasEncontradas.add(clave(cd.r, cd.c)))
-  )
+  // Color asignado a cada palabra encontrada (por su orden de aparición) y a
+  // cada casilla que ocupa. Si dos palabras cruzan en una casilla, se muestra
+  // el color de la última encontrada.
+  const colorDePalabra = {}
+  const colorDeCelda = {}
+  encontradas.forEach((e, i) => {
+    const color = colorPalabra(i)
+    colorDePalabra[e.palabra] = color
+    e.celdas.forEach((cd) => {
+      colorDeCelda[clave(cd.r, cd.c)] = color
+    })
+  })
   const celdasSeleccion = new Set(seleccion.map((cd) => clave(cd.r, cd.c)))
 
   // Dada una casilla objetivo, calcula la línea recta desde el inicio (si es
@@ -164,14 +181,15 @@ export default function Sopa({ moduloId, onVolver, onAvance }) {
             {sopa.grid.map((fila, r) =>
               fila.map((letra, c) => {
                 const k = clave(r, c)
-                const enc = celdasEncontradas.has(k)
+                const color = colorDeCelda[k]
                 const sel = celdasSeleccion.has(k)
                 return (
                   <div
                     key={k}
                     data-celda={k}
+                    style={color ? { backgroundColor: color } : undefined}
                     className={`flex aspect-square items-center justify-center rounded-[3px] text-[min(3.4vw,1rem)] font-bold uppercase
-                      ${enc ? 'bg-musgo text-white' : sel ? 'bg-ocre text-white' : 'bg-crema text-tierra'}`}
+                      ${color ? 'text-white' : sel ? 'bg-ocre text-white' : 'bg-crema text-tierra'}`}
                   >
                     {letra}
                   </div>
@@ -185,23 +203,32 @@ export default function Sopa({ moduloId, onVolver, onAvance }) {
         <h3 className="mb-2 text-lg font-bold text-bosque">Palabras a buscar</h3>
         <ul className="grid grid-cols-1 gap-1.5 sm:grid-cols-2">
           {sopa.colocaciones.map((col) => {
-            const hallada = encontradas.some((e) => e.palabra === col.palabra)
+            const color = colorDePalabra[col.palabra]
+            const hallada = !!color
             return (
               <li
                 key={col.palabra}
-                className={`rounded-xl px-3 py-2 text-sm ${
-                  hallada ? 'bg-musgo/15' : 'bg-crema/60'
-                }`}
+                className={`rounded-xl px-3 py-2 text-sm ${hallada ? '' : 'bg-crema/60'}`}
+                style={hallada ? { backgroundColor: color + '22' } : undefined}
               >
-                <span
-                  className={`font-bold ${
-                    hallada ? 'text-bosque line-through decoration-musgo' : 'text-tierra'
-                  }`}
-                >
-                  {col.palabra}
+                <span className="flex items-center gap-2">
+                  {/* Punto de color que coincide con la palabra en la cuadrícula */}
+                  <span
+                    className="inline-block h-3 w-3 shrink-0 rounded-full border"
+                    style={{
+                      backgroundColor: hallada ? color : 'transparent',
+                      borderColor: hallada ? color : '#c9c2ae',
+                    }}
+                  />
+                  <span
+                    className="font-bold"
+                    style={hallada ? { color, textDecoration: 'line-through' } : undefined}
+                  >
+                    {col.palabra}
+                  </span>
+                  {hallada && <span style={{ color }}>✓</span>}
                 </span>
-                {hallada && <span className="ml-1">✓</span>}
-                <span className="block text-xs text-tierra/60">{col.pista}</span>
+                <span className="ml-5 block text-xs text-tierra/60">{col.pista}</span>
               </li>
             )
           })}

@@ -1,0 +1,31 @@
+{
+  "zonas": [
+    { "id": "arkia", "nombre": "Arkía", "cardinal": "Norte", "color": "#1F6F8B" },
+    { "id": "moraga", "nombre": "Moragá", "cardinal": "Centro", "color": "#2C5F2D" },
+    { "id": "amaspache", "nombre": "Amaspache", "cardinal": "Sur", "color": "#9A6600" }
+  ],
+  "comunidades": [
+    { "nombre": "Cabras", "zona": "arkia" },
+    { "nombre": "La Loma", "zona": "arkia" },
+    { "nombre": "La Cuchilla", "zona": "arkia" },
+    { "nombre": "El Vergel", "zona": "arkia" },
+    { "nombre": "La Miel", "zona": "arkia" },
+    { "nombre": "Pírgura", "zona": "arkia" },
+    { "nombre": "Jiménez Alto", "zona": "moraga" },
+    { "nombre": "Jiménez Bajo", "zona": "moraga" },
+    { "nombre": "Limonar", "zona": "moraga" },
+    { "nombre": "Llanogrande", "zona": "moraga" },
+    { "nombre": "Echandía", "zona": "moraga" },
+    { "nombre": "Guayabito", "zona": "moraga" },
+    { "nombre": "El Llano", "zona": "moraga" },
+    { "nombre": "El Tejar", "zona": "moraga" },
+    { "nombre": "La Garrucha", "zona": "moraga" },
+    { "nombre": "Bellavista", "zona": "amaspache" },
+    { "nombre": "Monterredondo", "zona": "amaspache" },
+    { "nombre": "Republicana", "zona": "amaspache" },
+    { "nombre": "Boquerón", "zona": "amaspache" },
+    { "nombre": "Tacón", "zona": "amaspache" },
+    { "nombre": "El Volante", "zona": "amaspache" },
+    { "nombre": "San Juan", "zona": "amaspache" }
+  ]
+}

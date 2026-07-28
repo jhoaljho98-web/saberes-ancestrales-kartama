@@ -55,6 +55,22 @@ export default function Modulo({ moduloId, progreso, onAbrirActividad, onVolver 
           : `${avance.sopa.encontradas}/${avance.sopa.total}`
         : null,
     },
+    // Juego exclusivo del Módulo 2 (Territorio): ubicar las comunidades.
+    ...(moduloId === 'm2'
+      ? [
+          {
+            clave: 'comunidades',
+            icono: '🗺️',
+            titulo: 'Ubica las comunidades',
+            descripcion: 'Coloca las 22 comunidades en su zona.',
+            estado: avance.comunidades
+              ? avance.comunidades.resuelto
+                ? 'Resuelto ✓'
+                : `${avance.comunidades.aciertos}/${avance.comunidades.total}`
+              : null,
+          },
+        ]
+      : []),
     {
       clave: 'galeria',
       icono: '🖼️',

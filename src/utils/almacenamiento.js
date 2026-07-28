@@ -102,6 +102,20 @@ export function registrarSopa(moduloId, encontradas, total) {
   return datos
 }
 
+// Guarda el avance del juego de ubicar comunidades (Módulo 2).
+export function registrarComunidades(moduloId, aciertos, total) {
+  const datos = leerProgreso()
+  const mod = estadoModulo(datos, moduloId)
+  const previo = mod.comunidades?.aciertos || 0
+  mod.comunidades = {
+    resuelto: aciertos >= total,
+    aciertos: Math.max(previo, aciertos),
+    total,
+  }
+  guardarProgreso(datos)
+  return datos
+}
+
 // Borra todo el progreso (útil para pruebas o para "empezar de nuevo").
 export function reiniciarProgreso() {
   try {
