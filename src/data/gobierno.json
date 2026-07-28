@@ -1,0 +1,97 @@
+{
+  "titulo": "Dai Bakuru",
+  "subtitulo": "El árbol del gobierno propio",
+  "intro": "Los mayores dibujan el gobierno propio como un árbol. En la raíz está la comunidad; de ella crecen las asambleas, las autoridades, la guardia y la justicia. Las autoridades no mandan por encima de la comunidad: cogobiernan en su nombre. Toca cada parte para conocerla.",
+  "periodo": "Autoridades del gobierno propio 2025–2026",
+  "raiz": {
+    "titulo": "La Comunidad",
+    "etiqueta": "La raíz · la máxima autoridad",
+    "desc": "La máxima autoridad es la comunidad. Todo lo que decide es un mandato; las autoridades solo administran en su nombre."
+  },
+  "ramas": [
+    {
+      "id": "asambleas",
+      "icono": "🗣️",
+      "titulo": "Las asambleas",
+      "desc": "El lugar donde la comunidad decide.",
+      "color": "#2C5F2D",
+      "nodos": [
+        {
+          "titulo": "Asamblea General",
+          "embera": "Jõmãmebẽra",
+          "desc": "El máximo escenario de decisión. Avala los mandatos y el plan de vida, elige al Nâbera Kartama y reúne a las 22 comunidades. Es abierta: hombres, mujeres y niños, todos con voz y voto."
+        },
+        {
+          "titulo": "Asamblea Zonal",
+          "desc": "Reúne las comunidades de cada zona y elige a los tres Nâbera de zona."
+        },
+        {
+          "titulo": "Asamblea Comunitaria",
+          "desc": "Toma decisiones de gobierno propio y control social, y elige a los Êbera Boro."
+        }
+      ]
+    },
+    {
+      "id": "autoridades",
+      "icono": "🪶",
+      "titulo": "Las autoridades",
+      "embera": "Êbera Jaramía",
+      "desc": "Gobiernan dos años, con opción de reelección si la asamblea lo decide.",
+      "color": "#9A6600",
+      "nodos": [
+        {
+          "titulo": "Nâbera Kartama",
+          "desc": "Representa a todo el pueblo ante las instituciones.",
+          "actual": "Sandra Velázquez (Gobernadora General)"
+        },
+        {
+          "titulo": "Nâbera de zona",
+          "desc": "Representan cada una de las tres zonas del territorio.",
+          "actual": "Liliana Agudelo (Arkía) · Nidia Mejía (Moragá) · Sandra Gañán (Amaspache)"
+        },
+        {
+          "titulo": "Êbera Boro",
+          "desc": "Autoridades y líderes de cada una de las 22 comunidades."
+        },
+        {
+          "titulo": "Nâberara",
+          "desc": "Los exgobernadores, que aconsejan desde su experiencia."
+        },
+        {
+          "titulo": "Tâmará",
+          "desc": "El sabedor que aconseja al gobierno desde la medicina y la espiritualidad."
+        }
+      ]
+    },
+    {
+      "id": "guardia",
+      "icono": "🛡️",
+      "titulo": "La Guardia Indígena",
+      "embera": "Naberara Shiobari",
+      "desc": "Cuida el territorio, la vida y la armonía de la comunidad. La conforman 22 guardias adultos y 28 niños del semillero “Polinizadores”. Se organiza en áreas: primer mando, disciplina, control territorial y espiritualidad.",
+      "color": "#1F6F8B",
+      "nodos": [
+        {
+          "titulo": "Êbera Shiobari",
+          "desc": "El mando mayor de la Guardia Indígena.",
+          "actual": "Janer (primer mando) · Olga Cecilia Lengua (segundo mando)"
+        }
+      ]
+    },
+    {
+      "id": "justicia",
+      "icono": "⚖️",
+      "titulo": "La Justicia propia",
+      "desc": "Responde primero con la palabra, no con la cárcel. Un consejo de justicia —gobernador general, gobernadores zonales, un mando de guardia y un sabedor— busca la resocialización: que la persona vuelva a caminar bien con su comunidad.",
+      "color": "#6C3483",
+      "nodos": []
+    }
+  ],
+  "procesos": [
+    "Organización y gobierno propio",
+    "Relacionamiento institucional",
+    "Proyectos",
+    "Justicia propia",
+    "Guardia indígena"
+  ]
+}

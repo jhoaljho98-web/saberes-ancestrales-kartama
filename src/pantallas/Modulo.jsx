@@ -71,6 +71,18 @@ export default function Modulo({ moduloId, progreso, onAbrirActividad, onVolver 
           },
         ]
       : []),
+    // Visual exclusivo del Módulo 4 (Autonomía): el árbol del gobierno propio.
+    ...(moduloId === 'm4'
+      ? [
+          {
+            clave: 'gobierno',
+            icono: '🌳',
+            titulo: 'El árbol del gobierno',
+            descripcion: 'Organigrama del gobierno propio (Dai Bakuru).',
+            estado: null,
+          },
+        ]
+      : []),
     {
       clave: 'galeria',
       icono: '🖼️',
