@@ -26,6 +26,18 @@ export default function Modulo({ moduloId, progreso, onAbrirActividad, onVolver 
         : 'Introducción al módulo (lectura completa pronto).',
       estado: avance.lecturaLeida ? 'Leída' : null,
     },
+    // Visual exclusivo del Módulo 4 (Autonomía): va tras la lectura, antes del quiz.
+    ...(moduloId === 'm4'
+      ? [
+          {
+            clave: 'gobierno',
+            icono: '🌳',
+            titulo: 'El árbol del gobierno',
+            descripcion: 'Organigrama del gobierno propio (Dai Bakuru).',
+            estado: null,
+          },
+        ]
+      : []),
     {
       clave: 'quiz',
       icono: '❓',
@@ -68,18 +80,6 @@ export default function Modulo({ moduloId, progreso, onAbrirActividad, onVolver 
                 ? 'Resuelto ✓'
                 : `${avance.comunidades.aciertos}/${avance.comunidades.total}`
               : null,
-          },
-        ]
-      : []),
-    // Visual exclusivo del Módulo 4 (Autonomía): el árbol del gobierno propio.
-    ...(moduloId === 'm4'
-      ? [
-          {
-            clave: 'gobierno',
-            icono: '🌳',
-            titulo: 'El árbol del gobierno',
-            descripcion: 'Organigrama del gobierno propio (Dai Bakuru).',
-            estado: null,
           },
         ]
       : []),
