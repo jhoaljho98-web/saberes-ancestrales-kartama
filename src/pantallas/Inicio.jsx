@@ -119,6 +119,26 @@ export default function Inicio({ progreso, onAbrirModulo, onAbrirProceso, onAbri
         <span className="text-2xl text-white/70">›</span>
       </button>
 
+      {/* Facebook del Resguardo */}
+      <a
+        href="https://www.facebook.com/share/1DJgUrg9Ch/"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="mt-3 flex w-full items-center gap-4 rounded-2xl p-5 text-left text-white shadow-md transition active:scale-[0.99]"
+        style={{ backgroundColor: '#1877F2' }}
+      >
+        <svg viewBox="0 0 24 24" className="h-8 w-8 shrink-0" fill="currentColor" aria-hidden="true">
+          <path d="M22 12.06C22 6.5 17.52 2 12 2S2 6.5 2 12.06c0 5 3.66 9.14 8.44 9.9v-7H7.9v-2.9h2.54V9.85c0-2.51 1.49-3.9 3.78-3.9 1.09 0 2.24.2 2.24.2v2.46h-1.26c-1.24 0-1.63.77-1.63 1.56v1.87h2.78l-.44 2.9h-2.34v7C18.34 21.2 22 17.06 22 12.06Z" />
+        </svg>
+        <div className="flex-1">
+          <h2 className="text-xl font-bold">Comunidad Indígena Kartama</h2>
+          <p className="text-sm text-white/85">
+            Síguenos en Facebook y entérate de lo que vive el Resguardo.
+          </p>
+        </div>
+        <span className="text-2xl text-white/70">›</span>
+      </a>
+
       <p className="mt-8 text-center text-sm text-tierra/50">
         Curso Saberes Ancestrales · Resguardo Indígena Ẽbẽra Chamí de Cartama
       </p>
