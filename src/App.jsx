@@ -10,6 +10,8 @@ import Himnos from './pantallas/Himnos.jsx'
 import Comunidades from './pantallas/Comunidades.jsx'
 import Gobierno from './pantallas/Gobierno.jsx'
 import Historias from './pantallas/Historias.jsx'
+import UmbraHub from './pantallas/UmbraHub.jsx'
+import UmbraLeccion from './pantallas/UmbraLeccion.jsx'
 import modulos from './data/modulos.json'
 import galerias from './data/galerias.json'
 import { leerProgreso } from './utils/almacenamiento.js'
@@ -18,10 +20,12 @@ import { leerProgreso } from './utils/almacenamiento.js'
 // Controla qué pantalla se ve. No usamos librería de rutas para mantener la
 // app ligera y que funcione bien en celulares de gama baja y sin conexión.
 export default function App() {
-  // Pantalla actual: 'inicio' | 'modulo' | 'lectura' | 'quiz' | 'crucigrama' | 'galeria'
+  // Pantalla actual: 'inicio' | 'modulo' | 'lectura' | 'quiz' | 'crucigrama' | 'galeria' | 'umbra' | 'umbraLeccion'
   const [vista, setVista] = useState('inicio')
   // Módulo abierto actualmente (id: 'm1'...'m5')
   const [moduloId, setModuloId] = useState(null)
+  // Lección Umbra abierta (id: 'u1'...'u10')
+  const [umbraId, setUmbraId] = useState(null)
   // Progreso del usuario (leído del celular al arrancar)
   const [progreso, setProgreso] = useState(() => leerProgreso())
 
@@ -103,6 +107,29 @@ export default function App() {
     return <Himnos onVolver={volverAlInicio} />
   }
 
+  // --- Umbra: lección individual ---
+  if (vista === 'umbraLeccion') {
+    return (
+      <UmbraLeccion
+        leccionId={umbraId}
+        onVolver={() => setVista('umbra')}
+      />
+    )
+  }
+
+  // --- Umbra: hub de lecciones ---
+  if (vista === 'umbra') {
+    return (
+      <UmbraHub
+        onAbrirLeccion={(id) => {
+          setUmbraId(id)
+          setVista('umbraLeccion')
+        }}
+        onVolver={volverAlInicio}
+      />
+    )
+  }
+
   // --- Hub del módulo ---
   if (vista === 'modulo') {
     return (
@@ -122,6 +149,7 @@ export default function App() {
       onAbrirModulo={abrirModulo}
       onAbrirProceso={() => setVista('proceso')}
       onAbrirHimnos={() => setVista('himnos')}
+      onAbrirUmbra={() => setVista('umbra')}
     />
   )
 }

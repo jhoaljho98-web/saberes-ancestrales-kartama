@@ -1,0 +1,72 @@
+[
+ {
+  "id": "u1",
+  "numero": 1,
+  "titulo": "Identidad: ¿Quiénes son los Anserma-Umbra?",
+  "icono": "🌍",
+  "descripcion": "Etimología de Umbra y Anserma, los cinco pueblos del Grupo Umbra y su significado para Kartama."
+ },
+ {
+  "id": "u2",
+  "numero": 2,
+  "titulo": "Etnohistoria: De Umbra a Anserma",
+  "icono": "📜",
+  "descripcion": "La Provincia de Umbra, la Conquista de 1538, los Pirzas y el descubrimiento de 1995."
+ },
+ {
+  "id": "u3",
+  "numero": 3,
+  "titulo": "Clasificación Lingüística y el Grupo Umbra",
+  "icono": "🗺️",
+  "descripcion": "La corriente Karib, la hipótesis Chibcha descartada y la clasificación definitiva: Phylum Karib > Chokó > Umbra."
+ },
+ {
+  "id": "u4",
+  "numero": 4,
+  "titulo": "La Lengua Umbra: Teoría Lingüística",
+  "icono": "🔤",
+  "descripcion": "Características fundamentales: sintáctica, radical, performativa. El método endolingüístico de Rendón."
+ },
+ {
+  "id": "u5",
+  "numero": 5,
+  "titulo": "Sistema Fonológico y de Escritura",
+  "icono": "🗣️",
+  "descripcion": "Vocales, consonantes, nasalizaciones, tonos y la guía de pronunciación para hispanohablantes."
+ },
+ {
+  "id": "u6",
+  "numero": 6,
+  "titulo": "Léxico Umbra por Campos Semánticos",
+  "icono": "📚",
+  "descripcion": "Vocabulario completo en 20 campos: pronombres, saludos, parentesco, naturaleza, números, colores, cuerpo y más."
+ },
+ {
+  "id": "u7",
+  "numero": 7,
+  "titulo": "Gramática Umbra Completa",
+  "icono": "✏️",
+  "descripcion": "Género, plural, adjetivos, negación, interrogación, conjugación verbal, tiempos y comparativos."
+ },
+ {
+  "id": "u8",
+  "numero": 8,
+  "titulo": "Cultura Material y Simbólica",
+  "icono": "🎨",
+  "descripcion": "Kimpara (pintura facial), tatũĩõ (sistema de cuerdas), orfebrería, calendario lunar y el maíz sagrado."
+ },
+ {
+  "id": "u9",
+  "numero": 9,
+  "titulo": "Textos Bilingües y Tradición Oral",
+  "icono": "📖",
+  "descripcion": "Textos bilingües Umbra-Español, diálogos cotidianos y frases útiles con pronunciación."
+ },
+ {
+  "id": "u10",
+  "numero": 10,
+  "titulo": "Conexión Umbra-Kartama",
+  "icono": "🤝",
+  "descripcion": "Las dos capas lingüísticas del territorio, puentes léxicos Umbra-Ẽbẽra Chamí y propuestas didácticas."
+ }
+]

@@ -6,7 +6,7 @@ import modulos from '../data/modulos.json'
 // Props:
 // - progreso: objeto con el avance guardado
 // - onAbrirModulo: función que recibe el id del módulo elegido
-export default function Inicio({ progreso, onAbrirModulo, onAbrirProceso, onAbrirHimnos }) {
+export default function Inicio({ progreso, onAbrirModulo, onAbrirProceso, onAbrirHimnos, onAbrirUmbra }) {
   // Cuenta cuántas de las 4 actividades del módulo están completas.
   function actividadesHechas(id) {
     const m = progreso.modulos?.[id] || {}
@@ -35,8 +35,7 @@ export default function Inicio({ progreso, onAbrirModulo, onAbrirProceso, onAbri
           Pueblo Ẽbẽra Kartama
         </p>
         <p className="mt-3 text-base text-tierra/70">
-          Cinco módulos para reconocernos: unidad, territorio, cultura,
-          autonomía y espiritualidad.
+          Cinco módulos para reconocernos y la lengua ancestral Umbra.
         </p>
       </header>
 
@@ -86,6 +85,24 @@ export default function Inicio({ progreso, onAbrirModulo, onAbrirProceso, onAbri
           )
         })}
       </div>
+
+      {/* Lengua Umbra */}
+      <button
+        type="button"
+        onClick={onAbrirUmbra}
+        className="mt-4 flex w-full items-center gap-4 rounded-2xl p-5 text-left text-white shadow-md transition active:scale-[0.99]"
+        style={{ background: 'linear-gradient(135deg, #5C3D2E 0%, #2C5F2D 100%)' }}
+      >
+        <span className="text-3xl">🏛️</span>
+        <div className="flex-1">
+          <h2 className="text-xl font-bold">Lengua Umbra</h2>
+          <p className="text-sm italic text-white/80">ĩ xũnxũrai Umbra</p>
+          <p className="mt-1 text-sm text-white/85">
+            10 lecciones sobre la lengua ancestral del occidente de Caldas.
+          </p>
+        </div>
+        <span className="text-2xl text-white/70">›</span>
+      </button>
 
       {/* Himnos del pueblo */}
       <button
