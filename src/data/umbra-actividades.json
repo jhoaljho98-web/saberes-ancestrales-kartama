@@ -1,0 +1,418 @@
+{
+  "u1": {
+    "quiz": [
+      {
+        "pregunta": "¿Qué significa etimológicamente la palabra \"Umbra\"?",
+        "opciones": ["Nuestra tierra", "Nuestro río", "Nuestra casa", "Nuestra lengua"],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿De dónde viene el nombre colonial \"Anserma\"?",
+        "opciones": ["Del nombre de un cacique", "De la palabra Umbra para sal (ấnčuer)", "Del río Cauca", "De una palabra quechua"],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Cuántos pueblos conforman el Grupo Umbra?",
+        "opciones": ["3", "5", "7", "10"],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Cuál de estos NO es un pueblo del Grupo Umbra?",
+        "opciones": ["Kartama", "Caramanta", "Pirza", "Guaka"],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Qué significan /um/ y /bra/ en lengua Umbra?",
+        "opciones": ["/um/ = nosotros, /bra/ = tierra", "/um/ = tierra, /bra/ = agua", "/um/ = casa, /bra/ = pueblo", "/um/ = grande, /bra/ = gente"],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Quién registró que \"el sitio de Ancerma es llamado por los indios Umbra\"?",
+        "opciones": ["Jorge Robledo", "Pedro Simón", "Pedro Cieza de León", "Sebastián de Belalcázar"],
+        "correcta": 2
+      }
+    ],
+    "emparejar": [
+      { "izq": "Umbra", "der": "Valle de Umbra, Riosucio" },
+      { "izq": "Caramanta", "der": "Suroeste de Antioquia" },
+      { "izq": "Kartama", "der": "Marmato, Caldas" },
+      { "izq": "Nori", "der": "Sierra de Abibe, Antioquia" },
+      { "izq": "Guaka", "der": "Río León, Urabá" },
+      { "izq": "ấnčuer", "der": "Sal (origen de \"Anserma\")" }
+    ]
+  },
+  "u2": {
+    "quiz": [
+      {
+        "pregunta": "¿En qué año fundó Jorge Robledo la villa en territorio Umbra?",
+        "opciones": ["1492", "1538", "1627", "1773"],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Quiénes eran los Pirzas?",
+        "opciones": ["Conquistadores españoles", "Un pueblo Umbra del Valle de Pirza", "Comerciantes de sal", "Misioneros"],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Qué pasó con el nombre \"Umbra\" tras la Conquista?",
+        "opciones": ["Fue reemplazado por \"Anserma\"", "Se mantuvo igual", "Se tradujo al latín", "Los indígenas lo cambiaron"],
+        "correcta": 0
+      },
+      {
+        "pregunta": "¿Qué topónimo conserva un eco del nombre original \"Umbra\"?",
+        "opciones": ["Riosucio", "Umbría", "Caldas", "Marmato"],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿En qué año fue redescubierta la lengua Umbra por Rendón?",
+        "opciones": ["1800", "1900", "1995", "2010"],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Quién fue el primer español en pisar tierras del Valle de Umbra?",
+        "opciones": ["Jorge Robledo", "Pedro Cieza", "Sebastián de Belalcázar", "Pedro Simón"],
+        "correcta": 2
+      }
+    ]
+  },
+  "u3": {
+    "quiz": [
+      {
+        "pregunta": "¿A qué Phylum pertenece la lengua Umbra?",
+        "opciones": ["Chibcha", "Arawak", "Karib", "Tupí"],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Dentro de qué familia lingüística se clasifica el Umbra?",
+        "opciones": ["Maya", "Chokó", "Quechua", "Caribe insular"],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Qué hipótesis sobre la clasificación del Umbra fue descartada?",
+        "opciones": ["Que era Karib", "Que era Chokó", "Que era Chibcha", "Que era Arawak"],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Quién clasificó originalmente al Grupo Anserma?",
+        "opciones": ["Paul Rivet", "Sergio Elías Ortiz", "Noam Chomsky", "Rendón"],
+        "correcta": 1
+      },
+      {
+        "pregunta": "Según Paul Rivet, los pueblos del Grupo Umbra hablaban…",
+        "opciones": ["Lenguas totalmente diferentes", "Solo español", "Dialectos de una misma lengua", "Chibcha y Karib"],
+        "correcta": 2
+      },
+      {
+        "pregunta": "La ruta de clasificación del Umbra es:",
+        "opciones": ["Chibcha > Chokó > Umbra", "Karib > Chokó > Umbra", "Arawak > Chokó > Umbra", "Karib > Maya > Umbra"],
+        "correcta": 1
+      }
+    ]
+  },
+  "u4": {
+    "quiz": [
+      {
+        "pregunta": "¿Cuál es una característica fundamental de la lengua Umbra?",
+        "opciones": ["Es tonal como el chino", "Es radical y sustantiva", "Tiene casos como el latín", "Es aglutinante como el turco"],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Qué método usó Rendón para estudiar el Umbra?",
+        "opciones": ["Comparativo", "Generativo", "Endolingüístico", "Estructural"],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Qué significa que una lengua es \"radical\"?",
+        "opciones": ["Que es extremista", "Que las palabras se construyen desde raíces", "Que no tiene gramática", "Que solo tiene verbos"],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Qué tipo de palabra domina la estructura del Umbra?",
+        "opciones": ["El verbo", "El adjetivo", "El sustantivo", "El adverbio"],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Qué significa que el Umbra es \"performativa\"?",
+        "opciones": ["Solo se usa en ceremonias", "El habla es acción directa", "No tiene escritura", "Se aprende imitando"],
+        "correcta": 1
+      }
+    ]
+  },
+  "u5": {
+    "quiz": [
+      {
+        "pregunta": "¿Qué rasgo fonológico distingue al Umbra?",
+        "opciones": ["Los clics", "Las nasalizaciones", "Los tonos como el chino", "Las consonantes eyectivas"],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Cómo se marca la nasalización en la escritura Umbra?",
+        "opciones": ["Con una h después", "Con mayúscula", "Con tilde (~) sobre la vocal", "Con doble vocal"],
+        "correcta": 2
+      },
+      {
+        "pregunta": "El sonido /š/ en Umbra se pronuncia como…",
+        "opciones": ["La 's' española", "La 'sh' del inglés", "La 'j' española", "La 'ch' española"],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Qué sonido tiene la /x/ en Umbra (como en xũnxurai)?",
+        "opciones": ["Como la 'x' española", "Como la 'j' suave", "Como la 'k'", "No se pronuncia"],
+        "correcta": 1
+      },
+      {
+        "pregunta": "Las vocales nasalizadas del Umbra se representan con…",
+        "opciones": ["Un punto debajo", "Una tilde (~) encima", "Una 'n' después", "Nada especial"],
+        "correcta": 1
+      }
+    ],
+    "flashcards": [
+      { "umbra": "ā", "pronunciacion": "a larga", "espanol": "Vocal oral abierta" },
+      { "umbra": "ã", "pronunciacion": "a nasal", "espanol": "Vocal nasal" },
+      { "umbra": "š", "pronunciacion": "sh", "espanol": "Como 'sh' en inglés" },
+      { "umbra": "č", "pronunciacion": "ch", "espanol": "Como 'ch' en español" },
+      { "umbra": "x", "pronunciacion": "j suave", "espanol": "Como 'j' suave, no la 'j' fuerte" },
+      { "umbra": "ž", "pronunciacion": "sh sonora", "espanol": "Como la 'j' francesa en 'je'" }
+    ]
+  },
+  "u6": {
+    "quiz": [
+      {
+        "pregunta": "¿Cómo se dice \"sol\" en Umbra?",
+        "opciones": ["kõ", "āčū́", "ibakú", "ōma"],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Qué significa \"bi\" en Umbra?",
+        "opciones": ["Agua", "Sol", "Maíz", "Tierra"],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Cómo se dice \"sal\" en Umbra?",
+        "opciones": ["duñe", "nĩấ", "ấnčuer", "xãs"],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Qué significa \"kõ\" en Umbra?",
+        "opciones": ["Sol", "Luna", "Agua", "Tierra"],
+        "correcta": 1
+      },
+      {
+        "pregunta": "Los colores en Umbra se construyen sobre la raíz…",
+        "opciones": ["bi", "um", "či", "xũ"],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Cómo se dice \"agua\" en Umbra?",
+        "opciones": ["āčū́", "kõ", "ibakú", "bi"],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Qué significa \"tẽ\" en Umbra?",
+        "opciones": ["Sal", "Miel", "Oro", "Plata"],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Cómo se dice \"árbol\" en Umbra?",
+        "opciones": ["pĩsa", "pašano", "imbānā", "ōma"],
+        "correcta": 1
+      }
+    ],
+    "emparejar": [
+      { "izq": "āčū́", "der": "Sol" },
+      { "izq": "kõ", "der": "Luna" },
+      { "izq": "bi", "der": "Maíz" },
+      { "izq": "ibakú", "der": "Agua" },
+      { "izq": "pašano", "der": "Árbol" },
+      { "izq": "úri", "der": "Gallina" },
+      { "izq": "ấnčuer", "der": "Sal" },
+      { "izq": "tẽ", "der": "Oro" }
+    ],
+    "flashcards": [
+      { "umbra": "āčū́", "pronunciacion": "a-chú", "espanol": "Sol" },
+      { "umbra": "kõ", "pronunciacion": "kó (nasal)", "espanol": "Luna" },
+      { "umbra": "bi", "pronunciacion": "bi", "espanol": "Maíz" },
+      { "umbra": "ibakú", "pronunciacion": "i-ba-kú", "espanol": "Agua" },
+      { "umbra": "ấnčuer", "pronunciacion": "án-chuer", "espanol": "Sal" },
+      { "umbra": "duñe", "pronunciacion": "dú-ñe", "espanol": "Miel" },
+      { "umbra": "pašano", "pronunciacion": "pa-shá-no", "espanol": "Árbol" },
+      { "umbra": "úri", "pronunciacion": "ú-ri", "espanol": "Gallina" },
+      { "umbra": "imbānā", "pronunciacion": "im-ba-ná", "espanol": "Pájaro" },
+      { "umbra": "tẽ", "pronunciacion": "ten (nasal)", "espanol": "Oro" },
+      { "umbra": "arkấ", "pronunciacion": "ar-ká", "espanol": "Cabeza" },
+      { "umbra": "tará", "pronunciacion": "ta-rá", "espanol": "Mano" },
+      { "umbra": "ōma", "pronunciacion": "ó-ma", "espanol": "Camino" },
+      { "umbra": "čisấ", "pronunciacion": "chi-sá", "espanol": "Blanco" },
+      { "umbra": "čĩntá", "pronunciacion": "chin-tá (nasal)", "espanol": "Verde" },
+      { "umbra": "čimõr", "pronunciacion": "chi-mór (nasal)", "espanol": "Rojo" },
+      { "umbra": "činé", "pronunciacion": "chi-né", "espanol": "Amarillo" },
+      { "umbra": "nĩấ", "pronunciacion": "ni-á (nasal)", "espanol": "Dulce" },
+      { "umbra": "xãs", "pronunciacion": "jans (nasal)", "espanol": "Agrio" },
+      { "umbra": "kĩmpara", "pronunciacion": "kim-pá-ra (nasal)", "espanol": "Pintura ancestral" }
+    ]
+  },
+  "u7": {
+    "quiz": [
+      {
+        "pregunta": "¿Cuál es el sufijo masculino en Umbra?",
+        "opciones": ["/īno/", "/ī/", "/ičía/", "/kã/"],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Cuántos métodos de pluralización tiene el Umbra?",
+        "opciones": ["3", "5", "7", "1"],
+        "correcta": 2
+      },
+      {
+        "pregunta": "El adjetivo en Umbra va…",
+        "opciones": ["Antes del sustantivo", "Después del sustantivo (como sufijo)", "Separado siempre", "No existen adjetivos"],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Cómo se dice \"no\" en Umbra?",
+        "opciones": ["nấ", "ī", "kan", "sĩ"],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Qué partícula forma el infinitivo verbal en Umbra?",
+        "opciones": ["/kã/", "/um/", "/ī/", "/či/"],
+        "correcta": 2
+      },
+      {
+        "pregunta": "En la conjugación Umbra, ¿qué cambia?",
+        "opciones": ["El verbo", "Ambos", "El pronombre", "Ninguno"],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Qué significa \"madấčintá\"?",
+        "opciones": ["Aguacate maduro", "Plátano verde", "Maíz cocido", "Yuca dulce"],
+        "correcta": 1
+      }
+    ],
+    "emparejar": [
+      { "izq": "/ičía/", "der": "Sufijo masculino" },
+      { "izq": "/īno/", "der": "Sufijo femenino" },
+      { "izq": "/ī/", "der": "Infinitivo verbal" },
+      { "izq": "kan", "der": "Negación (no)" },
+      { "izq": "kanegú", "der": "Afirmación (sí)" },
+      { "izq": "/-éi/", "der": "Sufijo de pretérito" }
+    ]
+  },
+  "u8": {
+    "quiz": [
+      {
+        "pregunta": "¿Qué es la kĩmpara?",
+        "opciones": ["Danza ritual", "Pintura facial ancestral", "Comida ceremonial", "Instrumento musical"],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Qué es el tatũĩõ?",
+        "opciones": ["Pintura corporal", "Sistema de comunicación con palitos y nudos", "Calendario lunar", "Tejido"],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Qué significa \"diomato\" (palo del bastón de mando)?",
+        "opciones": ["Ofrenda sagrada", "Para siempre", "Gran cacique", "Árbol ancestral"],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Qué fases de la luna tienen nombres en Umbra?",
+        "opciones": ["Solo llena y nueva", "Nueva, llena y menguante", "Ninguna", "Solo la llena"],
+        "correcta": 1
+      },
+      {
+        "pregunta": "El cereal sagrado para los Umbra es…",
+        "opciones": ["El trigo", "El arroz", "El maíz (bi)", "La quinua"],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Cómo se dice \"corona de oro\" en Umbra?",
+        "opciones": ["kĩmpara", "tẽčar̃úa", "tatũĩõ", "diomato"],
+        "correcta": 1
+      }
+    ],
+    "flashcards": [
+      { "umbra": "kĩmpara", "pronunciacion": "kim-pá-ra (nasal)", "espanol": "Pintura facial ancestral" },
+      { "umbra": "tatũĩõ", "pronunciacion": "ta-tu-i-ó (nasal)", "espanol": "Kipu / sistema de mensajes" },
+      { "umbra": "diomato", "pronunciacion": "dio-má-to", "espanol": "Bastón de mando (\"para siempre\")" },
+      { "umbra": "guaiba", "pronunciacion": "guái-ba", "espanol": "Guadua" },
+      { "umbra": "čira", "pronunciacion": "chí-ra", "espanol": "Chaquira / cuenta" },
+      { "umbra": "nugi", "pronunciacion": "nú-gui", "espanol": "Collar" },
+      { "umbra": "tẽčar̃úa", "pronunciacion": "ten-cha-rúa (nasal)", "espanol": "Corona de oro" },
+      { "umbra": "kanči", "pronunciacion": "kan-chí", "espanol": "Achiote" }
+    ]
+  },
+  "u9": {
+    "quiz": [
+      {
+        "pregunta": "¿Cómo se dice \"hablar\" en Umbra?",
+        "opciones": ["kas ī", "xũnxurai", "fungí", "pambi"],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Qué significa literalmente \"xũnxurãrka\" (entendimiento)?",
+        "opciones": ["Corazón del habla", "Cabeza del habla", "Mano del pensamiento", "Camino de la palabra"],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Cómo se dice \"hoy\" en Umbra?",
+        "opciones": ["õ", "ñõĩ", "dakoié", "isĩ"],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Qué significa \"pambi\" en Umbra?",
+        "opciones": ["Soñar", "Hablar", "Recordar", "Aprender"],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Cómo se dice \"mañana\" en Umbra?",
+        "opciones": ["ñõĩ", "dakoié", "õ", "isĩ"],
+        "correcta": 2
+      },
+      {
+        "pregunta": "\"Kankurarkaĩ\" significa…",
+        "opciones": ["Enseñar", "Recordar", "Aprender", "Olvidar"],
+        "correcta": 2
+      }
+    ],
+    "emparejar": [
+      { "izq": "xũnxurai", "der": "Hablar" },
+      { "izq": "kas ī", "der": "Comer" },
+      { "izq": "fungí", "der": "Ir / irse" },
+      { "izq": "pambi", "der": "Recordar" },
+      { "izq": "kankurarkaĩ", "der": "Aprender" },
+      { "izq": "ñikoni", "der": "Coser / tejer" },
+      { "izq": "ñõĩ", "der": "Hoy" },
+      { "izq": "õ", "der": "Mañana" }
+    ]
+  },
+  "u10": {
+    "quiz": [
+      {
+        "pregunta": "¿Cuántas capas lingüísticas tiene el territorio de Kartama?",
+        "opciones": ["Una", "Dos: Umbra y Ẽbẽra Chamí", "Tres", "Ninguna"],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Cuál es la capa lingüística más antigua del territorio?",
+        "opciones": ["Español", "Ẽbẽra Chamí", "Umbra", "Quechua"],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿De dónde llegó la lengua Ẽbẽra Chamí al territorio?",
+        "opciones": ["Del Perú", "Del Chocó", "Del Ecuador", "Del Brasil"],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Por qué es importante estudiar el Umbra para Kartama?",
+        "opciones": ["Es la raíz lingüística más profunda del territorio", "Solo por curiosidad académica", "No tiene importancia", "Solo para aprender otro idioma"],
+        "correcta": 0
+      },
+      {
+        "pregunta": "El Grupo Umbra y la familia Chokó comparten…",
+        "opciones": ["El mismo origen lingüístico (Phylum Karib)", "Nada en común", "El mismo territorio exacto", "La misma gramática"],
+        "correcta": 0
+      }
+    ]
+  }
+}
