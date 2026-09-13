@@ -2,7 +2,7 @@
   {
     "id": "pueblo",
     "titulo": "Himno del Pueblo Ẽbẽra de Caldas",
-    "creditos": "Versión “Hijos del Sol”",
+    "creditos": "Versión «Hijos del Sol»",
     "descripcion": "El canto que nos reconoce como pueblo Ẽbẽra en el territorio de Caldas.",
     "video": "./media/himnos/himno_pueblo.mp4",
     "poster": "./media/himnos/poster_pueblo.jpg"
@@ -10,9 +10,16 @@
   {
     "id": "guardia",
     "titulo": "Himno de la Guardia Indígena",
-    "creditos": "“Guardia, Fuerza” · ft. Andrea Echeverry, Ali Aka Mind, Chane Meza",
+    "creditos": "«Guardia, Fuerza» · ft. Andrea Echeverry, Ali Aka Mind, Chane Meza",
     "descripcion": "El canto de la Guardia que cuida el territorio, la vida y la armonía de la comunidad.",
     "video": "./media/himnos/himno_guardia.mp4",
     "poster": "./media/himnos/poster_guardia.jpg"
+  },
+  {
+    "id": "onic",
+    "titulo": "Himno de la ONIC",
+    "creditos": "Organización Nacional Indígena de Colombia",
+    "descripcion": "El himno de la Organización Nacional Indígena de Colombia, que representa la unidad y la lucha de los pueblos originarios del país.",
+    "youtube": "6tSVxVUi-pg"
   }
 ]

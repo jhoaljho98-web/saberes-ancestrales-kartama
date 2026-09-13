@@ -414,5 +414,73 @@
         "correcta": 0
       }
     ]
+  },
+  "u11": {
+    "quiz": [
+      {
+        "pregunta": "¿Quién era Ocuzca?",
+        "opciones": ["Un conquistador español", "El cacique mayor (Ciriarka) de la confederación Anserma", "Un sacerdote colonial", "Un explorador europeo"],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Qué significa \"Ciriarka\" en lengua Umbra?",
+        "opciones": ["Guerrero valiente", "El conocimiento / líder sabio", "Señor de la sal", "Hijo del trueno"],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Qué significa \"Nukurikumá\"?",
+        "opciones": ["Territorio sagrado", "Pensamiento / el creador", "Río grande", "Montaña del sol"],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Qué le sucedió a Humbruza?",
+        "opciones": ["Huyó al Chamí", "Fue nombrado gobernador", "Fue quemado vivo en Guática", "Se alió con los españoles"],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿En qué año se desató la gran rebelión en el Cauca Medio?",
+        "opciones": ["1492", "1539", "1557", "1627"],
+        "correcta": 2
+      },
+      {
+        "pregunta": "¿Quiénes son Micua y Xixaraka en la tradición Anserma?",
+        "opciones": ["Dos caciques guerreros", "La primera mujer y el primer hombre", "Dos cerros sagrados", "Dos ríos del territorio"],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿A dónde huyó Ocuzca tras la derrota de la rebelión?",
+        "opciones": ["A Cartagena", "Al sitio de Cima, en la región del Chamí", "A España", "A la selva del Chocó"],
+        "correcta": 1
+      },
+      {
+        "pregunta": "¿Qué porcentaje de la población original sobrevivió a la colonización?",
+        "opciones": ["50%", "25%", "10%", "2%"],
+        "correcta": 3
+      }
+    ],
+    "emparejar": [
+      { "izq": "Ocuzca", "der": "Cacique mayor de los Anserma" },
+      { "izq": "Humbruza", "der": "Quemado vivo en Guática" },
+      { "izq": "Nukurikumá", "der": "Pensamiento / el creador" },
+      { "izq": "Ciriarka", "der": "Conocimiento / líder sabio" },
+      { "izq": "Karambí", "der": "Cerro Batero (roca del trueno)" },
+      { "izq": "Tatamá", "der": "Cerro sagrado (padre espíritu)" },
+      { "izq": "Bambunukui", "der": "Mercado de amigos" },
+      { "izq": "Kurikamayo", "der": "Orfebre / trabajador del oro" }
+    ],
+    "flashcards": [
+      { "umbra": "Nukurikumá", "pronunciacion": "nu-ku-ri-ku-MÁ", "espanol": "Pensamiento, el creador" },
+      { "umbra": "Ciriarka", "pronunciacion": "chi-ri-AR-ka", "espanol": "Conocimiento / líder sabio" },
+      { "umbra": "arka", "pronunciacion": "AR-ka", "espanol": "Cabeza, sabiduría" },
+      { "umbra": "Tatamá", "pronunciacion": "ta-ta-MÁ", "espanol": "Padre espíritu (cerro sagrado)" },
+      { "umbra": "Karambí", "pronunciacion": "ka-ram-BÍ", "espanol": "Roca del trueno (cerro Batero)" },
+      { "umbra": "Kuraka", "pronunciacion": "ku-RA-ka", "espanol": "Cacique, jefe" },
+      { "umbra": "Kurikamayo", "pronunciacion": "ku-ri-ka-MA-yo", "espanol": "Orfebre (trabajador del oro)" },
+      { "umbra": "Bambunukui", "pronunciacion": "bam-bu-nu-KUI", "espanol": "Mercado de amigos" },
+      { "umbra": "Naberara", "pronunciacion": "na-be-RA-ra", "espanol": "Mayores / antepasados" },
+      { "umbra": "Shiobarí", "pronunciacion": "shio-ba-RÍ", "espanol": "Guerreros ancestrales" },
+      { "umbra": "Moraga", "pronunciacion": "mo-RA-ga", "espanol": "Sitio sagrado central" },
+      { "umbra": "Ibaka", "pronunciacion": "i-BA-ka", "espanol": "Medicina ancestral sagrada" }
+    ]
   }
 }

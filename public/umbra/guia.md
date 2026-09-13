@@ -255,21 +255,22 @@ b) Entrada por el río Amazonas, río Caquetá, valles del Tolima, Chocó.
 
 ### 5.3. Clasificación Definitiva
 
-La clasificación que Rendón (s.f.) adopta, basándose en Ortiz (1965) y Rivet (1943), es:
+La clasificación que Rendón (s.f.) adopta, basándose en Ortiz (1965) y Rivet (1943), sitúa al Umbra dentro del gran Phylum Karib, en el grupo Chokó, subgrupo Cauca:
 
-```
-Phylum KARIB
-  └── Grupo Chokó (Chocoan)
-        ├── Chokó (norte): Empera, Katío
-        ├── Chokó (sur): Noanamá
-        ├── Cenú
-        ├── Cauca
-        │     ├── Kimbaya: carrapa, picara, paucura
-        │     └── Ancerma: ancerma, caramanta, cartama, nori, guaca
-        └── [otros]
-```
+| Nivel | Clasificación | Pueblos / lenguas |
+|-------|--------------|-------------------|
+| **Phylum** | KARIB | — |
+| **Grupo** | Chokó (Chocoan) | — |
+| ↳ Norte | Chokó norte | Empera, Katío |
+| ↳ Sur | Chokó sur | Noanamá |
+| ↳ Cenú | Cenú | Cenú |
+| ↳ **Cauca** | **Subgrupo Cauca** | — |
+| | → Kimbaya | Carrapa, Picara, Paucura |
+| | → **Ancerma (Umbra)** | **Ancerma, Caramanta, Cartama, Nori, Guaca** |
 
 Mason, en su clasificación por hemisferios, ubica al grupo Ancerma dentro de "Northwestern > Chocoan > Cauca", confirmando su filiación Chokó (Ortiz, 1965).
+
+> **En resumen:** el Umbra no es Chibcha ni Ẽbẽra. Es una lengua del subgrupo Cauca, dentro del grupo Chokó, perteneciente al gran Phylum Karib. Comparte el macrogrupo con el Ẽbẽra Chamí, pero son lenguas distintas —como el español y el portugués son ambas romance, pero no la misma lengua.
 
 ### 5.4. El Umbra No Es Ẽbẽra Chamí
 
@@ -1135,19 +1136,7 @@ Desde la perspectiva de la pedagogía culturalmente relevante (Gay, 2010) y la e
 | Saber/aprender | kankurarkaĩ | kan-ku-rar-kái | kawa- | Raíces distintas |
 | Sal | ấnčuer | án-chuer | (préstamo español) | El Umbra conserva el término propio |
 
-### 12.5. Propuestas Didácticas
-
-**Actividad 1 — "Las dos lenguas de mi territorio":** Los estudiantes investigan qué palabras Umbra sobreviven en la toponimia local (Umbría, Pirza, Cartama) y las comparan con sus equivalentes en Ẽbẽra Chamí.
-
-**Actividad 2 — "El árbol en dos lenguas":** Usando el campo semántico completo del árbol (*pašano*) en Umbra, los estudiantes crean un mural bilingüe Umbra-Ẽbẽra donde cada parte del árbol está etiquetada en ambas lenguas.
-
-**Actividad 3 — "Kimpara y pintura facial":** Investigación y práctica sobre la pintura facial como sistema de comunicación visual. Los estudiantes pueden crear sus propios diseños respetando los códigos simbólicos documentados.
-
-**Actividad 4 — "Tatũĩõ: mensajes sin letras":** Los estudiantes crean su propio sistema de mensajes con palitos y cuerdas, explorando la idea de que la escritura puede tener muchas formas.
-
-**Actividad 5 — "Números con espíritu":** Exploración del sistema numérico Umbra con sus valores totémicos (5=gallinazo, 7=alacrán, 1000=jaguar) y comparación con el sistema base 5 del Ẽbẽra.
-
-### 12.6. Actividad de Autoevaluación — Módulo X
+### 12.5. Actividad de Autoevaluación — Módulo X
 
 1. ¿Por qué se dice que Kartama tiene dos capas lingüísticas?
 2. Nombre al menos tres implicaciones concretas del conocimiento Umbra para la etnoeducación en Cartama.
@@ -1157,9 +1146,127 @@ Desde la perspectiva de la pedagogía culturalmente relevante (Gay, 2010) y la e
 
 ---
 
-## 13. Autoevaluación y Rúbricas de Dominio
+## 13. Módulo XI — Los Caciques: Ocuzca y Humbruza
 
-### 13.1. Rúbrica de Autoevaluación Global
+> **Pregunta orientadora:** *¿Quiénes fueron los grandes caciques del pueblo Anserma y qué significó su resistencia para la pervivencia de Kartama?*
+
+### 13.1. Nukurikumá: El Pensamiento que Dio Origen a los Pueblos
+
+Según la tradición oral de la comunidad Cartama, todo comenzó con el pensamiento. *Nukurikumá* —que significa "pensamiento"— es incorpóreo, dual y creador. Su casa está en lo alto del cerro Tatamá (*Tata* = padre, *Má* = espíritu/montaña). De su voz nacieron **Micua** y **Xixaraka**, la primera mujer y el primer hombre, padres de todos los Anserma (Aguirre, 2024).
+
+Micua y Xixaraka construyeron su casa en lo alto del **Karambí** (*Mokarabá*: *mokara* = roca + *ba* = trueno), hoy conocido como Cerro Batero. Se dice que su forma la esculpió un trueno que lanzó Xixaraka tocando su tambor para reprender a sus hijos.
+
+Desde el cerro Karambí nacieron todos los pueblos originarios del cauce medio del río Cauca, entre ellos los **Kartama** (Cartama) y **Karamauta** (Caramanta). Otros pueblos hermanos fueron los Zopías, Tunsarmas, Pirzas, Guakeramaes, Opiramaes, Apías, Andikas, Múpuras, Guaticas y Guacas. Todos estos pueblos fueron agrupados por los españoles bajo el nombre de **Anserma** (*ancer* = sal en Umbra).
+
+### 13.2. El Territorio de Ocuzca: Una Nación Confederada
+
+El denominado Territorio Ancestral Indígena Cartama estaba ocupado por una gran familia con un cacique mayor llamado **Ocuzca** (también escrito Ocuzaca), ubicado en la zona central del río Cauca. Su casa se encontraba en las inmediaciones de los actuales Riosucio y Quinchía, posiblemente en el pueblo de Sómoga, cerca del cerro Karambí (Aguirre, 2024).
+
+Ocuzca era el **Ciriarka** de los Anserma. En lengua Umbra, *Ciriarka* viene de *Chi-arka*: *chi* = el conocimiento; *arka* = cabeza, sabiduría. El Ciriarka era el gran líder sabio de la confederación.
+
+En el territorio confederado se encontraban muchos cacicazgos con sus propios señores y señoras:
+
+| Cacique / Señor | Territorio o Región |
+|----------------|---------------------|
+| **Ocuzca** | Cacique mayor de la confederación Anserma |
+| **Humbruza (Umbruza)** | Señor de gran importancia en la confederación |
+| **Cananuo** | Cacique de Irra, a veces enemistado con Ocuzca |
+| **Riterón** | Señor del territorio Anserma |
+| **Chiricha** | Señor del territorio Anserma |
+| **Cauromá** | Señor del territorio Anserma |
+| **Andica** | Señor del territorio Andica |
+| **Pipintac** | Señor del territorio Pipintá |
+| **Maitamá** | Señor del territorio Maytama |
+
+Las relaciones entre los pueblos se mantenían mediante matrimonios, no solo entre los descendientes de Xixaraka, sino también con el pueblo de la selva (Embera) y el pueblo del oro (Kimbaya). Los mayores Anserma expresaban en lengua propia: *"cinó, cimor, cintá i xuáunga"* — los tres colores (amarillo, rojo, verde) que simbolizan los tres pueblos unidos ancestralmente.
+
+### 13.3. La Invasión Española y la Resistencia de Ocuzca
+
+En 1536, Sebastián de Belalcázar irrumpe por primera vez en la loma de Umbra. Oyó hablar de las minas de oro de Cartama, pero su interés estaba orientado hacia las fundaciones de Cali, Popayán y Pasto (Gürtner, 2006).
+
+Un año después llegaría **Jorge Robledo** desde el Valle del Lilí (Cali) en 1537 y Juan Vadillo desde Cartagena en 1538. Robledo fundaría en 1539 *Santa Ana la villa de los Caballeros* (después conocida como Anserma) e invadió los territorios de Cartamas, Pirzas y Zopías en 1540.
+
+Robledo intentó doblegar a los caciques de la región mediante la diplomacia. **Ocuzca, manifestando su derecho natural a no ser vasallo de nadie, se negó** (Aguirre, 2024). Este encuentro terminaría con el secuestro de Ocuzca y el posterior levantamiento en armas de la población nativa.
+
+**Humbruza** fue capturado y **quemado vivo en Guática** por el soldado Gómez Hernández, como castigo y escarmiento para los demás caciques. Este acto de crueldad extrema buscaba intimidar a los pueblos de la región.
+
+### 13.4. La Gran Rebelión de 1557
+
+Lejos de someterse, Ocuzca y Umbruza organizaron una resistencia de gran escala. A la rebelión se sumaron pueblos de distintas regiones:
+
+- Los **Panches** del Tolima, guiados por un designio de sus dioses
+- Los **Pijaos**, guerreros del oriente
+- Los **Quimbayas** de Cartago
+- Los **Carrapas** de la actual Manizales
+- Los **Nutabes** y los **Maytamas**
+
+En 1557 se desató una **rebelión general en el Cauca Medio**. Los Panches cruzaron la cordillera Central por el paso de Herveo (páramo de Letras) y lograron sublevar a los Carrapas y Quimbayas contra los españoles (Caicedo, 2014).
+
+La rebelión tuvo un efecto profundo: **las cuatro ciudades fundadas por Robledo fueron obligadas a trasladarse** con el paso de los años:
+
+| Ciudad | Fundación | Traslado |
+|--------|-----------|----------|
+| Santa Ana (Anserma) | 15 de agosto de 1539 | Ansermanuevo (Valle), 1717 |
+| San Jorge de Cartago | 9 de agosto de 1540 | Actual Cartago (Valle), 1641 |
+| Antioquia | 4 de diciembre de 1541 | Santafé de Antioquia, 1547 |
+| Arma | 25 de julio de 1542 | Rionegro (Antioquia), 1783 |
+
+Finalmente, Gómez Hernández logró sofocar la rebelión. Se dice que **Ocuzca huyó al sitio de Cima** (en la región del Chamí) con los guerreros Ansermas y Paches que le acompañaban. Robledo, por su parte, moriría a manos de Belalcázar en la loma de Pozo, condenado a muerte a garrote el 5 de octubre de 1546.
+
+### 13.5. La Herida No Curada de la Colonización
+
+Tras la derrota de la resistencia, los pueblos Anserma fueron reducidos a apenas el **2% de su población original**. Fueron despojados de su libertad, de sus dioses y de sus lenguas. Las comunidades se convirtieron en mano de obra esclava en las minas de Marmato (Caicedo, 2013).
+
+Los Cartama y Caramanta fueron anexados al **real de minas de Marmato** y al pueblo de indios de Supía la Alta y Arquía. El nombre "Cartama" fue reemplazado por el de "Indios Arquía" durante un largo periodo de la historia.
+
+En 1627, **Lesmes de Espinosa y Saravia**, enviado de la Real Audiencia de Santafé, hizo entrega de los primeros resguardos indígenas de la región, entre ellos el Resguardo de Supía la Alta y los Indios Arquía, que es el antecedente directo de la actual comunidad indígena Cartama (Aguirre, 2024).
+
+### 13.6. El Legado de los Caciques para Kartama
+
+La resistencia de Ocuzca y Humbruza no fue en vano. Aunque militarmente fueron derrotados, su legado vive en la comunidad Kartama de hoy:
+
+- **La memoria oral**: Los mayores siguen contando la historia de Ocuzca, el gran Ciriarka que se negó a ser vasallo.
+- **La lucha territorial**: Así como Ocuzca defendió su territorio, la comunidad Cartama hoy lucha por la reivindicación de su territorio ancestral frente a la minería transnacional.
+- **La identidad confederada**: Los pueblos Anserma siempre existieron como naciones confederadas unidas por lazos de parentesco, lengua y cultura. Hoy, la comunidad Cartama mantiene esa identidad colectiva.
+- **La pervivencia de la lengua**: Aunque la lengua Umbra fue silenciada por siglos, los nombres de los caciques, los cerros y los ríos conservan las raíces del idioma: *Karambí*, *Tatamá*, *Marmadá*, *Sómoga*, *Moraga*.
+
+> *"Mientras haya territorio hay esperanza y seguimos en pie de lucha. Como semilla volvemos a germinar."* — Comunidad Indígena Cartama (Aguirre, 2024).
+
+### 13.7. Vocabulario Umbra Relacionado
+
+| Palabra Umbra | Pronunciación | Significado |
+|--------------|---------------|-------------|
+| *Nukurikumá* | nu-ku-ri-ku-MÁ | Pensamiento, el creador |
+| *Ciriarka* | chi-ri-AR-ka | Conocimiento / líder sabio |
+| *arka* | AR-ka | Cabeza, sabiduría |
+| *Tatamá* | ta-ta-MÁ | Padre espíritu / cerro sagrado |
+| *Karambí* | ka-ram-BÍ | Roca del trueno (cerro Batero) |
+| *Kuraka* | ku-RA-ka | Cacique, jefe |
+| *Kurikamayo* | ku-ri-ka-MA-yo | Orfebre, trabajador del oro |
+| *ancer / ấnčuer* | ÁN-chuer | Sal |
+| *Moraga* | mo-RA-ga | Sitio sagrado central |
+| *Marmadá* | mar-ma-DÁ | Cerro de Marmato |
+| *Bambunukui* | bam-bu-nu-KUI | Mercado de amigos |
+| *Sómoga* | SÓ-mo-ga | Valle de los Pirzas |
+| *Ibaka* | i-BA-ka | Medicina ancestral sagrada |
+| *Naberara* | na-be-RA-ra | Mayores / antepasados |
+| *Shiobarí* | shio-ba-RÍ | Guerreros ancestrales |
+
+### 13.8. Actividad de Autoevaluación — Módulo XI
+
+1. ¿Quién fue Ocuzca y qué título ostentaba en lengua Umbra?
+2. ¿Qué significa *Nukurikumá* y qué relación tiene con el origen de los pueblos Anserma?
+3. ¿Qué pueblos se unieron a la rebelión de 1557 contra los españoles?
+4. ¿Qué le sucedió a Humbruza y por qué es importante recordar este hecho?
+5. ¿Cuál fue el efecto de la rebelión sobre las ciudades fundadas por Robledo?
+6. Nombre al menos tres formas en que el legado de los caciques vive hoy en la comunidad Kartama.
+7. Reflexión: ¿Por qué es importante que la comunidad Kartama conozca la historia de Ocuzca y Humbruza?
+
+---
+
+## 14. Autoevaluación y Rúbricas de Dominio
+
+### 14.1. Rúbrica de Autoevaluación Global
 
 | Criterio | Nivel Inicial (1) | Nivel Intermedio (2) | Nivel Avanzado (3) | Nivel Experto (4) |
 |----------|-------------------|---------------------|--------------------|--------------------|
@@ -1170,7 +1277,7 @@ Desde la perspectiva de la pedagogía culturalmente relevante (Gay, 2010) y la e
 | **Cultura material** | Reconoce la kimpara como pintura facial | Describe el tatũĩõ, la kimpara y la orfebrería | Explica el sistema simbólico detrás de cada práctica | Integra los elementos culturales en propuestas pedagógicas |
 | **Aplicación etnoeducativa** | Reconoce la conexión Kartama-Umbra | Identifica puentes léxicos entre Umbra y Ẽbẽra Chamí | Propone actividades pedagógicas con elementos Umbra | Diseña secuencias didácticas completas que integran ambas tradiciones |
 
-### 13.2. Test de Dominio Rápido
+### 14.2. Test de Dominio Rápido
 
 Responda sin consultar el documento. Cada respuesta correcta vale 5 puntos (total: 100):
 
@@ -1199,7 +1306,7 @@ Responda sin consultar el documento. Cada respuesta correcta vale 5 puntos (tota
 
 ---
 
-## 14. Glosario General Umbra-Español
+## 15. Glosario General Umbra-Español
 
 ### A
 
@@ -1497,7 +1604,7 @@ Responda sin consultar el documento. Cada respuesta correcta vale 5 puntos (tota
 
 ---
 
-## 15. Referencias
+## 16. Referencias
 
 Anderson, L. W., & Krathwohl, D. R. (Eds.). (2001). *A taxonomy for learning, teaching, and assessing: A revision of Bloom's taxonomy of educational objectives*. Longman.
 

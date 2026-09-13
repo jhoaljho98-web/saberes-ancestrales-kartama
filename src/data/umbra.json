@@ -67,6 +67,13 @@
   "numero": 10,
   "titulo": "Conexión Umbra-Kartama",
   "icono": "🤝",
-  "descripcion": "Las dos capas lingüísticas del territorio, puentes léxicos Umbra-Ẽbẽra Chamí y propuestas didácticas."
+  "descripcion": "Las dos capas lingüísticas del territorio y los puentes léxicos entre el Umbra y el Ẽbẽra Chamí."
+ },
+ {
+  "id": "u11",
+  "numero": 11,
+  "titulo": "Los Caciques: Ocuzca y Humbruza",
+  "icono": "⚔️",
+  "descripcion": "La historia de los grandes caciques Anserma, su resistencia contra la invasión española y su legado para el pueblo Kartama."
  }
 ]

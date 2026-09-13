@@ -98,7 +98,7 @@ export default function Inicio({ progreso, onAbrirModulo, onAbrirProceso, onAbri
           <h2 className="text-xl font-bold">Lengua Umbra</h2>
           <p className="text-sm italic text-white/80">ĩ xũnxũrai Umbra</p>
           <p className="mt-1 text-sm text-white/85">
-            10 lecciones sobre la lengua ancestral del occidente de Caldas.
+            11 lecciones sobre la lengua ancestral del occidente de Caldas.
           </p>
         </div>
         <span className="text-2xl text-white/70">›</span>

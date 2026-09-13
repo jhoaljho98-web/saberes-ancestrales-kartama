@@ -23,7 +23,7 @@ export function useGuiaUmbra(moduloId) {
 
 function extraerModulo(md, moduloId) {
   const num = parseInt(moduloId.replace('u', ''), 10)
-  const romanos = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X']
+  const romanos = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI']
   const romano = romanos[num - 1]
 
   const partes = md.split(/(?=^## \d+\.)/m)

@@ -19,16 +19,29 @@ export default function Himnos({ onVolver }) {
         <div className="flex flex-col gap-8">
           {himnos.map((h) => (
             <section key={h.id} className="rounded-3xl bg-white p-4 shadow-md">
-              <video
-                controls
-                playsInline
-                preload="none"
-                poster={h.poster}
-                className="w-full rounded-2xl bg-black"
-              >
-                <source src={h.video} type="video/mp4" />
-                Tu navegador no puede reproducir este video.
-              </video>
+              {h.youtube ? (
+                <div className="relative w-full overflow-hidden rounded-2xl bg-black" style={{ paddingBottom: '56.25%' }}>
+                  <iframe
+                    src={`https://www.youtube-nocookie.com/embed/${h.youtube}`}
+                    title={h.titulo}
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                    allowFullScreen
+                    loading="lazy"
+                    className="absolute inset-0 h-full w-full"
+                  />
+                </div>
+              ) : (
+                <video
+                  controls
+                  playsInline
+                  preload="none"
+                  poster={h.poster}
+                  className="w-full rounded-2xl bg-black"
+                >
+                  <source src={h.video} type="video/mp4" />
+                  Tu navegador no puede reproducir este video.
+                </video>
+              )}
 
               <div className="mt-3">
                 <h2 className="text-xl font-bold text-bosque">{h.titulo}</h2>
